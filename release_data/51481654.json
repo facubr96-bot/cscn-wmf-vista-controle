@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "51481654",
+    "supplier_code": "BMZ25",
+    "description": "SUPORTE CADEIRAO BARRA DE TRAC",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36432395",
+    "release_number": "20260722",
+    "last_receipt_date": "06/07/2026",
+    "last_receipt_qty": 30,
+    "cum_receipt": 740,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "05/06/2026",
+      "ship_date_iso": "2026-06-05",
+      "dod_date": "20/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 3,
+      "cum_qty": 743,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
