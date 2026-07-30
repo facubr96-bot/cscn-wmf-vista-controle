@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "48129752",
+    "supplier_code": "BLC18",
+    "description": "CALCO DE AFINACAO",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36364625",
+    "release_number": "20260722",
+    "last_receipt_date": "10/04/2026",
+    "last_receipt_qty": 60,
+    "cum_receipt": 1419,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "22/06/2027",
+      "ship_date_iso": "2027-06-22",
+      "dod_date": "07/07/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 290,
+      "cum_qty": 1709,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
