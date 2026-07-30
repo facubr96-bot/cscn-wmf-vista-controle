@@ -1,0 +1,54 @@
+{
+  "header": {
+    "pn": "445394",
+    "supplier_code": "FHZ16",
+    "description": "REBITE POP DE ACO",
+    "supplier_pn": "",
+    "revision": "C",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363075",
+    "release_number": "20260722",
+    "last_receipt_date": "24/04/2026",
+    "last_receipt_qty": 500,
+    "cum_receipt": 9500,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "24/08/2027",
+      "ship_date_iso": "2027-08-24",
+      "dod_date": "08/09/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 2000,
+      "cum_qty": 11500,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/03/2028",
+      "ship_date_iso": "2028-03-20",
+      "dod_date": "04/04/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 2000,
+      "cum_qty": 13500,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/08/2028",
+      "ship_date_iso": "2028-08-23",
+      "dod_date": "07/09/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 743,
+      "cum_qty": 14243,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
