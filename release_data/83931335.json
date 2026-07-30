@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "83931335",
+    "supplier_code": "BJG54",
+    "description": "PARAFUSO, M10X75 8.8P",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "17/06/2026",
+    "po_number": "CB36363055",
+    "release_number": "20260617",
+    "last_receipt_date": "08/06/2026",
+    "last_receipt_qty": 200,
+    "cum_receipt": 1184,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "22/07/2027",
+      "ship_date_iso": "2027-07-22",
+      "dod_date": "06/08/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 200,
+      "cum_qty": 1384,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2028",
+      "ship_date_iso": "2028-06-22",
+      "dod_date": "07/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 18,
+      "cum_qty": 1402,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
