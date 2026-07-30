@@ -1,0 +1,65 @@
+{
+  "header": {
+    "pn": "84315636",
+    "supplier_code": "BKH48",
+    "description": "PLACA DE ACO DO ADAPTADOR",
+    "supplier_pn": "",
+    "revision": "D",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36465037",
+    "release_number": "20260722",
+    "last_receipt_date": "19/07/2025",
+    "last_receipt_qty": 75,
+    "cum_receipt": 75,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "21/02/2027",
+      "ship_date_iso": "2027-02-21",
+      "dod_date": "08/03/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 7,
+      "cum_qty": 82,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/03/2027",
+      "ship_date_iso": "2027-03-24",
+      "dod_date": "08/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 92,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "31/03/2027",
+      "ship_date_iso": "2027-03-31",
+      "dod_date": "15/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 2,
+      "cum_qty": 94,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "21/04/2027",
+      "ship_date_iso": "2027-04-21",
+      "dod_date": "06/05/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 8,
+      "cum_qty": 102,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
