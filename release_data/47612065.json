@@ -1,0 +1,98 @@
+{
+  "header": {
+    "pn": "47612065",
+    "supplier_code": "BMX47",
+    "description": "SUPORTE",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363682",
+    "release_number": "20260722",
+    "last_receipt_date": "29/06/2026",
+    "last_receipt_qty": 11,
+    "cum_receipt": 170,
+    "in_transit": 23,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "23/06/2026",
+      "ship_date_iso": "2026-06-23",
+      "dod_date": "08/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 1,
+      "cum_qty": 159,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "06/07/2026",
+      "ship_date_iso": "2026-07-06",
+      "dod_date": "21/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 1,
+      "cum_qty": 160,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/07/2026",
+      "ship_date_iso": "2026-07-09",
+      "dod_date": "24/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 4,
+      "cum_qty": 164,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "12/07/2026",
+      "ship_date_iso": "2026-07-12",
+      "dod_date": "27/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 10,
+      "cum_qty": 174,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "29/07/2026",
+      "ship_date_iso": "2026-07-29",
+      "dod_date": "13/08/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 10,
+      "cum_qty": 184,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "25/08/2026",
+      "ship_date_iso": "2026-08-25",
+      "dod_date": "09/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 10,
+      "cum_qty": 194,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/10/2028",
+      "ship_date_iso": "2028-10-24",
+      "dod_date": "08/11/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 4,
+      "cum_qty": 198,
+      "promise_qty": 10,
+      "promise_approx": true
+    }
+  ],
+  "promise_note": ""
+}
