@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "15697801",
+    "supplier_code": "FHZ16",
+    "description": "PARAFUSO DE ACO 6 X 20",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363232",
+    "release_number": "20260722",
+    "last_receipt_date": "19/06/2026",
+    "last_receipt_qty": 1500,
+    "cum_receipt": 1500,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "23/12/2027",
+      "ship_date_iso": "2027-12-23",
+      "dod_date": "07/01/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 614,
+      "cum_qty": 2114,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
