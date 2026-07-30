@@ -1,0 +1,54 @@
+{
+  "header": {
+    "pn": "5126031",
+    "supplier_code": "FHZ16",
+    "description": "WASHER, 21 X 35 X 2 MM CST ZND",
+    "supplier_pn": "",
+    "revision": "D",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363263",
+    "release_number": "20260722",
+    "last_receipt_date": "19/06/2026",
+    "last_receipt_qty": 1000,
+    "cum_receipt": 2574,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "10/02/2027",
+      "ship_date_iso": "2027-02-10",
+      "dod_date": "25/02/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 3574,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/09/2027",
+      "ship_date_iso": "2027-09-22",
+      "dod_date": "07/10/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 4574,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2028",
+      "ship_date_iso": "2028-06-22",
+      "dod_date": "07/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 528,
+      "cum_qty": 5102,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
