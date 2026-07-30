@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "12164711",
+    "supplier_code": "FHZ16",
+    "description": "PORCA SEXTAVADA M10X1.25",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363109",
+    "release_number": "20260722",
+    "last_receipt_date": "19/06/2026",
+    "last_receipt_qty": 1000,
+    "cum_receipt": 2955,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "30/07/2026",
+      "ship_date_iso": "2026-07-30",
+      "dod_date": "14/08/2026",
+      "bucket_label": "Today",
+      "bucket_class": "bucket-today",
+      "qty": 955,
+      "cum_qty": 2955,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
