@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "322356",
+    "supplier_code": "FHZ16",
+    "description": "ARRUELA DE ACO",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36428021",
+    "release_number": "20260722",
+    "last_receipt_date": "22/07/2026",
+    "last_receipt_qty": 2385,
+    "cum_receipt": 4004,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "04/08/2026",
+      "ship_date_iso": "2026-08-04",
+      "dod_date": "19/08/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 3097,
+      "cum_qty": 7101,
+      "promise_qty": 319,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "24/10/2027",
+      "ship_date_iso": "2027-10-24",
+      "dod_date": "08/11/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 2651,
+      "cum_qty": 9752,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
