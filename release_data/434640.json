@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "434640",
+    "supplier_code": "FHZ16",
+    "description": "CHAVETA DE ACO",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363274",
+    "release_number": "20260722",
+    "last_receipt_date": "24/06/2026",
+    "last_receipt_qty": 57,
+    "cum_receipt": 207,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "01/07/2026",
+      "ship_date_iso": "2026-07-01",
+      "dod_date": "16/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 129,
+      "cum_qty": 336,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
