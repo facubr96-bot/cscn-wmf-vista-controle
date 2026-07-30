@@ -1,0 +1,120 @@
+{
+  "header": {
+    "pn": "84032994",
+    "supplier_code": "BKM21",
+    "description": "ARRUELA DE ACO - DIAM. 13MM H1",
+    "supplier_pn": "1833435",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36661924",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "10/06/2026",
+      "ship_date_iso": "2026-06-10",
+      "dod_date": "25/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 58,
+      "cum_qty": 58,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/07/2026",
+      "ship_date_iso": "2026-07-09",
+      "dod_date": "24/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 50,
+      "cum_qty": 108,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/09/2026",
+      "ship_date_iso": "2026-09-09",
+      "dod_date": "24/09/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 158,
+      "promise_qty": 108,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "11/10/2026",
+      "ship_date_iso": "2026-10-11",
+      "dod_date": "26/10/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 208,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/04/2027",
+      "ship_date_iso": "2027-04-11",
+      "dod_date": "26/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 258,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/07/2027",
+      "ship_date_iso": "2027-07-11",
+      "dod_date": "26/07/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 308,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/11/2027",
+      "ship_date_iso": "2027-11-09",
+      "dod_date": "24/11/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 358,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/04/2028",
+      "ship_date_iso": "2028-04-09",
+      "dod_date": "24/04/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 408,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "10/07/2028",
+      "ship_date_iso": "2028-07-10",
+      "dod_date": "25/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 44,
+      "cum_qty": 452,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
