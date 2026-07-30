@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "48023995",
+    "supplier_code": "BLC18",
+    "description": "ESTRUTURA",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36489939",
+    "release_number": "20260722",
+    "last_receipt_date": "13/09/2025",
+    "last_receipt_qty": 5,
+    "cum_receipt": 75,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "22/09/2027",
+      "ship_date_iso": "2027-09-22",
+      "dod_date": "07/10/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 43,
+      "cum_qty": 118,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
