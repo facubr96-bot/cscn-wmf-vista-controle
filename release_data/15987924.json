@@ -1,0 +1,76 @@
+{
+  "header": {
+    "pn": "15987924",
+    "supplier_code": "BJG54",
+    "description": "PARAFUSO DE ACO M20X40 FULL 8.",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36434533",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "18/01/2028",
+      "ship_date_iso": "2028-01-18",
+      "dod_date": "02/02/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 50,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "15/03/2028",
+      "ship_date_iso": "2028-03-15",
+      "dod_date": "30/03/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 100,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "19/06/2028",
+      "ship_date_iso": "2028-06-19",
+      "dod_date": "04/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 150,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/08/2028",
+      "ship_date_iso": "2028-08-20",
+      "dod_date": "04/09/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 200,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "19/10/2028",
+      "ship_date_iso": "2028-10-19",
+      "dod_date": "03/11/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 11,
+      "cum_qty": 211,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
