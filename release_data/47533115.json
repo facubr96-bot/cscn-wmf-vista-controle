@@ -1,0 +1,65 @@
+{
+  "header": {
+    "pn": "47533115",
+    "supplier_code": "BJP82",
+    "description": "TAMBOR DO FEEDER NH",
+    "supplier_pn": "",
+    "revision": "D",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36476775",
+    "release_number": "20260722",
+    "last_receipt_date": "20/07/2026",
+    "last_receipt_qty": 10,
+    "cum_receipt": 39,
+    "in_transit": 7,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "01/07/2026",
+      "ship_date_iso": "2026-07-01",
+      "dod_date": "16/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 6,
+      "cum_qty": 45,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "31/08/2026",
+      "ship_date_iso": "2026-08-31",
+      "dod_date": "15/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 9,
+      "cum_qty": 54,
+      "promise_qty": 6,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "14/09/2026",
+      "ship_date_iso": "2026-09-14",
+      "dod_date": "29/09/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 9,
+      "cum_qty": 63,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "07/10/2026",
+      "ship_date_iso": "2026-10-07",
+      "dod_date": "22/10/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 7,
+      "cum_qty": 70,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
