@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "12164124",
+    "supplier_code": "FHZ16",
+    "description": "PORCA DE ACO FIXACAO DA T",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "24/06/2026",
+    "po_number": "CB36428010",
+    "release_number": "20260624",
+    "last_receipt_date": "10/04/2026",
+    "last_receipt_qty": 10,
+    "cum_receipt": 491,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "23/06/2026",
+      "ship_date_iso": "2026-06-23",
+      "dod_date": "08/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 100,
+      "cum_qty": 591,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
