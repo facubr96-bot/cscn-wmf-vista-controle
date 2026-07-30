@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "84230576",
+    "supplier_code": "BLC18",
+    "description": "ARRUELA DE ACO - DIAM. 2MM",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "20/05/2026",
+    "po_number": "CB36364632",
+    "release_number": "20260520",
+    "last_receipt_date": "16/12/2025",
+    "last_receipt_qty": 40,
+    "cum_receipt": 140,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "03/05/2026",
+      "ship_date_iso": "2026-05-03",
+      "dod_date": "18/05/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 10,
+      "cum_qty": 150,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
