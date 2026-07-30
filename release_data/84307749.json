@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "84307749",
+    "supplier_code": "BKH48",
+    "description": "SUPORTE DE ACO",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363594",
+    "release_number": "20260722",
+    "last_receipt_date": "29/06/2026",
+    "last_receipt_qty": 18,
+    "cum_receipt": 161,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "02/07/2026",
+      "ship_date_iso": "2026-07-02",
+      "dod_date": "17/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 20,
+      "cum_qty": 181,
+      "promise_qty": 20,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "28/09/2026",
+      "ship_date_iso": "2026-09-28",
+      "dod_date": "13/10/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 191,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
