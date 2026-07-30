@@ -1,0 +1,76 @@
+{
+  "header": {
+    "pn": "120048",
+    "supplier_code": "BJG54",
+    "description": "PARAFUSO DE ACO M16X80 8.8 ZND",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363095",
+    "release_number": "20260722",
+    "last_receipt_date": "07/05/2026",
+    "last_receipt_qty": 90,
+    "cum_receipt": 270,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "29/10/2026",
+      "ship_date_iso": "2026-10-29",
+      "dod_date": "13/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 90,
+      "cum_qty": 360,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/05/2027",
+      "ship_date_iso": "2027-05-23",
+      "dod_date": "07/06/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 90,
+      "cum_qty": 450,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/09/2027",
+      "ship_date_iso": "2027-09-22",
+      "dod_date": "07/10/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 90,
+      "cum_qty": 540,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/04/2028",
+      "ship_date_iso": "2028-04-23",
+      "dod_date": "08/05/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 90,
+      "cum_qty": 630,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/08/2028",
+      "ship_date_iso": "2028-08-23",
+      "dod_date": "07/09/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 52,
+      "cum_qty": 682,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
