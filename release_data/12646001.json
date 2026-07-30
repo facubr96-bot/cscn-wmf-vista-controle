@@ -1,0 +1,131 @@
+{
+  "header": {
+    "pn": "12646001",
+    "supplier_code": "FHZ16",
+    "description": "ARRUELA LISA DE AÇO",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363079",
+    "release_number": "20260722",
+    "last_receipt_date": "22/07/2026",
+    "last_receipt_qty": 380,
+    "cum_receipt": 3180,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "03/11/2026",
+      "ship_date_iso": "2026-11-03",
+      "dod_date": "18/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1020,
+      "cum_qty": 4200,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "03/02/2027",
+      "ship_date_iso": "2027-02-03",
+      "dod_date": "18/02/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1400,
+      "cum_qty": 5600,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "14/04/2027",
+      "ship_date_iso": "2027-04-14",
+      "dod_date": "29/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1400,
+      "cum_qty": 7000,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2027",
+      "ship_date_iso": "2027-06-22",
+      "dod_date": "07/07/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1400,
+      "cum_qty": 8400,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/09/2027",
+      "ship_date_iso": "2027-09-22",
+      "dod_date": "07/10/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1400,
+      "cum_qty": 9800,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/11/2027",
+      "ship_date_iso": "2027-11-24",
+      "dod_date": "09/12/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1400,
+      "cum_qty": 11200,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/01/2028",
+      "ship_date_iso": "2028-01-23",
+      "dod_date": "07/02/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1400,
+      "cum_qty": 12600,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/04/2028",
+      "ship_date_iso": "2028-04-23",
+      "dod_date": "08/05/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1400,
+      "cum_qty": 14000,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2028",
+      "ship_date_iso": "2028-06-22",
+      "dod_date": "07/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1400,
+      "cum_qty": 15400,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/08/2028",
+      "ship_date_iso": "2028-08-23",
+      "dod_date": "07/09/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1081,
+      "cum_qty": 16481,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
