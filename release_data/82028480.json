@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "82028480",
+    "supplier_code": "BLH98",
+    "description": "CONECTOR ACO BAIXO CARB S/TRAT",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36708266",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "25/08/2026",
+      "ship_date_iso": "2026-08-25",
+      "dod_date": "09/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 100,
+      "cum_qty": 100,
+      "promise_qty": 100,
+      "promise_approx": true
+    }
+  ],
+  "promise_note": ""
+}
