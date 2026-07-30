@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "48154725",
+    "supplier_code": "BPD96",
+    "description": "TUBAGEM HIDRAULICO",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36364922",
+    "release_number": "20260722",
+    "last_receipt_date": "17/12/2025",
+    "last_receipt_qty": 60,
+    "cum_receipt": 154,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "15/10/2026",
+      "ship_date_iso": "2026-10-15",
+      "dod_date": "30/10/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 60,
+      "cum_qty": 214,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/05/2027",
+      "ship_date_iso": "2027-05-11",
+      "dod_date": "26/05/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 36,
+      "cum_qty": 250,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
