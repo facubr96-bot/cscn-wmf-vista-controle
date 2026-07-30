@@ -1,0 +1,65 @@
+{
+  "header": {
+    "pn": "51668922",
+    "supplier_code": "DYY59",
+    "description": "SUPORTE",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36446526",
+    "release_number": "20260722",
+    "last_receipt_date": "31/03/2026",
+    "last_receipt_qty": 15,
+    "cum_receipt": 76,
+    "in_transit": 20,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "09/07/2026",
+      "ship_date_iso": "2026-07-09",
+      "dod_date": "24/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 20,
+      "cum_qty": 96,
+      "promise_qty": 20,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "14/09/2026",
+      "ship_date_iso": "2026-09-14",
+      "dod_date": "29/09/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 20,
+      "cum_qty": 116,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/10/2026",
+      "ship_date_iso": "2026-10-20",
+      "dod_date": "04/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 20,
+      "cum_qty": 136,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "19/11/2026",
+      "ship_date_iso": "2026-11-19",
+      "dod_date": "04/12/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 5,
+      "cum_qty": 141,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
