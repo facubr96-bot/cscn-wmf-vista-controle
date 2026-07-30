@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "47703388",
+    "supplier_code": "BMX47",
+    "description": "SUPORTE",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36486696",
+    "release_number": "20260722",
+    "last_receipt_date": "03/11/2025",
+    "last_receipt_qty": 23,
+    "cum_receipt": 25,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "20/03/2028",
+      "ship_date_iso": "2028-03-20",
+      "dod_date": "04/04/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 29,
+      "cum_qty": 54,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
