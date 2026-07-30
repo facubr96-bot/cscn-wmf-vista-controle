@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "12647601",
+    "supplier_code": "FHZ16",
+    "description": "ARRUELA 6.15X16X2 ZND",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36434546",
+    "release_number": "20260722",
+    "last_receipt_date": "19/06/2026",
+    "last_receipt_qty": 51,
+    "cum_receipt": 51,
+    "in_transit": 40,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "01/07/2026",
+      "ship_date_iso": "2026-07-01",
+      "dod_date": "16/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 5,
+      "cum_qty": 56,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/08/2026",
+      "ship_date_iso": "2026-08-11",
+      "dod_date": "26/08/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 15,
+      "cum_qty": 71,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
