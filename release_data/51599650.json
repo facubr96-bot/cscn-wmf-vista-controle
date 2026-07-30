@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "51599650",
+    "supplier_code": "BML88",
+    "description": "PLACA DE ACO-LD",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36504957",
+    "release_number": "20260722",
+    "last_receipt_date": "23/10/2025",
+    "last_receipt_qty": 30,
+    "cum_receipt": 30,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "20/07/2026",
+      "ship_date_iso": "2026-07-20",
+      "dod_date": "04/08/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 75,
+      "cum_qty": 105,
+      "promise_qty": 75,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "24/10/2027",
+      "ship_date_iso": "2027-10-24",
+      "dod_date": "08/11/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 64,
+      "cum_qty": 169,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
