@@ -1,0 +1,65 @@
+{
+  "header": {
+    "pn": "84312367",
+    "supplier_code": "BKH48",
+    "description": "SUPORTE DE ACO FIXACAO PONTEIR",
+    "supplier_pn": "",
+    "revision": "",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363595",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "29/07/2026",
+      "ship_date_iso": "2026-07-29",
+      "dod_date": "13/08/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 42,
+      "cum_qty": 42,
+      "promise_qty": 42,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "21/12/2026",
+      "ship_date_iso": "2026-12-21",
+      "dod_date": "05/01/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 42,
+      "cum_qty": 84,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/05/2027",
+      "ship_date_iso": "2027-05-11",
+      "dod_date": "26/05/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 42,
+      "cum_qty": 126,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/12/2027",
+      "ship_date_iso": "2027-12-23",
+      "dod_date": "07/01/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 13,
+      "cum_qty": 139,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
