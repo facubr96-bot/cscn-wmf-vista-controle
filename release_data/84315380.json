@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "84315380",
+    "supplier_code": "BLC18",
+    "description": "CINTA",
+    "supplier_pn": "",
+    "revision": "D",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36432032",
+    "release_number": "20260722",
+    "last_receipt_date": "22/07/2026",
+    "last_receipt_qty": 50,
+    "cum_receipt": 150,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "10/02/2027",
+      "ship_date_iso": "2027-02-10",
+      "dod_date": "25/02/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 200,
+      "promise_qty": 50,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "22/07/2027",
+      "ship_date_iso": "2027-07-22",
+      "dod_date": "06/08/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 16,
+      "cum_qty": 216,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
