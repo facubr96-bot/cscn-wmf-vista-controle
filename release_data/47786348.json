@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "47786348",
+    "supplier_code": "BNK46",
+    "description": "SUPORTE",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "13/05/2026",
+    "po_number": "CB36365005",
+    "release_number": "20260513",
+    "last_receipt_date": "18/07/2025",
+    "last_receipt_qty": 65,
+    "cum_receipt": 130,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "14/06/2026",
+      "ship_date_iso": "2026-06-14",
+      "dod_date": "29/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 28,
+      "cum_qty": 158,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
