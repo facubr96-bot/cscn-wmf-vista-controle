@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "82026240",
+    "supplier_code": "BKM21",
+    "description": "ESPACADOR DE ACO 4,5MM",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36364968",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "10/11/2026",
+      "ship_date_iso": "2026-11-10",
+      "dod_date": "25/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 500,
+      "cum_qty": 500,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
