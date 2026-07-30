@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "10519201",
+    "supplier_code": "BLH98",
+    "description": "ARRUELA LISA DE ACO 4X9X0 8",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "01/07/2026",
+    "po_number": "CB36436501",
+    "release_number": "20260701",
+    "last_receipt_date": "17/03/2026",
+    "last_receipt_qty": 1300,
+    "cum_receipt": 10600,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "25/07/2026",
+      "ship_date_iso": "2026-07-25",
+      "dod_date": "09/08/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 100,
+      "cum_qty": 10700,
+      "promise_qty": 100,
+      "promise_approx": true
+    }
+  ],
+  "promise_note": ""
+}
