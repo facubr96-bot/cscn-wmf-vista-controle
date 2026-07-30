@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "100005",
+    "supplier_code": "FHZ16",
+    "description": "PORCA BORBOLETA DE ACO M8 MINU",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36434544",
+    "release_number": "20260722",
+    "last_receipt_date": "19/06/2026",
+    "last_receipt_qty": 800,
+    "cum_receipt": 800,
+    "in_transit": 200,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "01/07/2026",
+      "ship_date_iso": "2026-07-01",
+      "dod_date": "16/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 752,
+      "cum_qty": 1552,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
