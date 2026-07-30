@@ -1,0 +1,87 @@
+{
+  "header": {
+    "pn": "48154924",
+    "supplier_code": "BVC42",
+    "description": "INDICADOR",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36407199",
+    "release_number": "20260722",
+    "last_receipt_date": "28/04/2026",
+    "last_receipt_qty": 42,
+    "cum_receipt": 205,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "04/08/2026",
+      "ship_date_iso": "2026-08-04",
+      "dod_date": "19/08/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 40,
+      "cum_qty": 245,
+      "promise_qty": 24,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "15/11/2026",
+      "ship_date_iso": "2026-11-15",
+      "dod_date": "30/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 40,
+      "cum_qty": 285,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "10/02/2027",
+      "ship_date_iso": "2027-02-10",
+      "dod_date": "25/02/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 40,
+      "cum_qty": 325,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "14/04/2027",
+      "ship_date_iso": "2027-04-14",
+      "dod_date": "29/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 40,
+      "cum_qty": 365,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2027",
+      "ship_date_iso": "2027-06-22",
+      "dod_date": "07/07/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 40,
+      "cum_qty": 405,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/08/2027",
+      "ship_date_iso": "2027-08-24",
+      "dod_date": "08/09/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 415,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
