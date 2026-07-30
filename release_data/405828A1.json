@@ -1,0 +1,54 @@
+{
+  "header": {
+    "pn": "405828A1",
+    "supplier_code": "WMFBR",
+    "description": "PESO DA RODA 91KG",
+    "supplier_pn": "",
+    "revision": "J",
+    "ship_frequency": "",
+    "issue_date": "29/04/2026",
+    "po_number": "CB36435035",
+    "release_number": "20260429",
+    "last_receipt_date": "13/03/2026",
+    "last_receipt_qty": 40,
+    "cum_receipt": 1304,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "29/04/2026",
+      "ship_date_iso": "2026-04-29",
+      "dod_date": "14/05/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 32,
+      "cum_qty": 1224,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/05/2026",
+      "ship_date_iso": "2026-05-11",
+      "dod_date": "26/05/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 40,
+      "cum_qty": 1264,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/05/2026",
+      "ship_date_iso": "2026-05-20",
+      "dod_date": "04/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 40,
+      "cum_qty": 1304,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
