@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "14154711",
+    "supplier_code": "BNF47",
+    "description": "REBITE M6 X 20 - ACO",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36447342",
+    "release_number": "20260722",
+    "last_receipt_date": "21/08/2025",
+    "last_receipt_qty": 1500,
+    "cum_receipt": 1500,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "24/08/2027",
+      "ship_date_iso": "2027-08-24",
+      "dod_date": "08/09/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 570,
+      "cum_qty": 2070,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
