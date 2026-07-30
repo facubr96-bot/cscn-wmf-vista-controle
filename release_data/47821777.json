@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "47821777",
+    "supplier_code": "BJR79",
+    "description": "MANGUEIRA BORRACHA",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36698998",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "27/07/2026",
+      "ship_date_iso": "2026-07-27",
+      "dod_date": "11/08/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 20,
+      "cum_qty": 20,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "03/08/2026",
+      "ship_date_iso": "2026-08-03",
+      "dod_date": "18/08/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 73,
+      "cum_qty": 93,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
