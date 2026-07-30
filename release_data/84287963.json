@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "84287963",
+    "supplier_code": "BNL72",
+    "description": "BUCHA DE ACO - DIA. 25 X 53.8",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36405722",
+    "release_number": "20260722",
+    "last_receipt_date": "17/12/2025",
+    "last_receipt_qty": 50,
+    "cum_receipt": 200,
+    "in_transit": 25,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "27/07/2026",
+      "ship_date_iso": "2026-07-27",
+      "dod_date": "11/08/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 25,
+      "cum_qty": 225,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
