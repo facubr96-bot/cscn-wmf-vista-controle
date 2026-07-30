@@ -1,0 +1,120 @@
+{
+  "header": {
+    "pn": "47910880",
+    "supplier_code": "DVN55",
+    "description": "MANGUEIRA DE BORRACHA COM ACES",
+    "supplier_pn": "",
+    "revision": "C",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36365106",
+    "release_number": "20260722",
+    "last_receipt_date": "24/06/2026",
+    "last_receipt_qty": 10,
+    "cum_receipt": 128,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "10/11/2026",
+      "ship_date_iso": "2026-11-10",
+      "dod_date": "25/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 138,
+      "promise_qty": 10,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "21/12/2026",
+      "ship_date_iso": "2026-12-21",
+      "dod_date": "05/01/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 148,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "10/02/2027",
+      "ship_date_iso": "2027-02-10",
+      "dod_date": "25/02/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 158,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/03/2027",
+      "ship_date_iso": "2027-03-09",
+      "dod_date": "24/03/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 168,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "14/04/2027",
+      "ship_date_iso": "2027-04-14",
+      "dod_date": "29/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 178,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/05/2027",
+      "ship_date_iso": "2027-05-11",
+      "dod_date": "26/05/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 188,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2027",
+      "ship_date_iso": "2027-06-22",
+      "dod_date": "07/07/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 198,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/07/2027",
+      "ship_date_iso": "2027-07-22",
+      "dod_date": "06/08/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 208,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/08/2027",
+      "ship_date_iso": "2027-08-24",
+      "dod_date": "08/09/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 3,
+      "cum_qty": 211,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
