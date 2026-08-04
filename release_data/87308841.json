@@ -1,0 +1,54 @@
+{
+  "header": {
+    "pn": "87308841",
+    "supplier_code": "BLH98",
+    "description": "REBITE DE ACO, POP 5/32X0.425",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36661901",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "10/06/2026",
+      "ship_date_iso": "2026-06-10",
+      "dod_date": "25/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 530,
+      "cum_qty": 530,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/07/2026",
+      "ship_date_iso": "2026-07-09",
+      "dod_date": "24/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 500,
+      "cum_qty": 1030,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/05/2027",
+      "ship_date_iso": "2027-05-09",
+      "dod_date": "24/05/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 456,
+      "cum_qty": 1486,
+      "promise_qty": 1050,
+      "promise_approx": true
+    }
+  ],
+  "promise_note": ""
+}
