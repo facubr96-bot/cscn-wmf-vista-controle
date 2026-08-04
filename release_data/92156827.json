@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "92156827",
+    "supplier_code": "BJC97",
+    "description": "DECAL, PUMA - 215 CIH CCM LWB",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36440270",
+    "release_number": "20260722",
+    "last_receipt_date": "17/12/2025",
+    "last_receipt_qty": 50,
+    "cum_receipt": 50,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "17/03/2027",
+      "ship_date_iso": "2027-03-17",
+      "dod_date": "01/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 100,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/12/2027",
+      "ship_date_iso": "2027-12-23",
+      "dod_date": "07/01/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 45,
+      "cum_qty": 145,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
