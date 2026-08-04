@@ -1,0 +1,65 @@
+{
+  "header": {
+    "pn": "87011857",
+    "supplier_code": "BLH98",
+    "description": "DISCO DE MOLA DE ACO 3X51X100M",
+    "supplier_pn": "",
+    "revision": "G",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36434549",
+    "release_number": "20260722",
+    "last_receipt_date": "06/12/2025",
+    "last_receipt_qty": 100,
+    "cum_receipt": 200,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "24/07/2028",
+      "ship_date_iso": "2028-07-24",
+      "dod_date": "08/08/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 13,
+      "cum_qty": 213,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/08/2028",
+      "ship_date_iso": "2028-08-23",
+      "dod_date": "07/09/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 15,
+      "cum_qty": 228,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/09/2028",
+      "ship_date_iso": "2028-09-24",
+      "dod_date": "09/10/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 14,
+      "cum_qty": 242,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/10/2028",
+      "ship_date_iso": "2028-10-24",
+      "dod_date": "08/11/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1,
+      "cum_qty": 243,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
