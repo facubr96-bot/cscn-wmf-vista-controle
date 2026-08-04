@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "91702499",
+    "supplier_code": "WMFBR",
+    "description": "REFORCO DO ADAPTADOR",
+    "supplier_pn": "",
+    "revision": "",
+    "ship_frequency": "",
+    "issue_date": "27/05/2026",
+    "po_number": "CB36363607",
+    "release_number": "20260527",
+    "last_receipt_date": "28/04/2026",
+    "last_receipt_qty": 14,
+    "cum_receipt": 44,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "12/07/2026",
+      "ship_date_iso": "2026-07-12",
+      "dod_date": "27/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 2,
+      "cum_qty": 46,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
