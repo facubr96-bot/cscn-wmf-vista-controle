@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "87670764",
+    "supplier_code": "BJG54",
+    "description": "PARAFUSO ACO",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363275",
+    "release_number": "20260722",
+    "last_receipt_date": "08/06/2026",
+    "last_receipt_qty": 500,
+    "cum_receipt": 1280,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "22/09/2027",
+      "ship_date_iso": "2027-09-22",
+      "dod_date": "07/10/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 217,
+      "cum_qty": 1497,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
