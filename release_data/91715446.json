@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "91715446",
+    "supplier_code": "BML33",
+    "description": "CORRIMAO",
+    "supplier_pn": "",
+    "revision": "",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36402060",
+    "release_number": "20260722",
+    "last_receipt_date": "05/05/2026",
+    "last_receipt_qty": 14,
+    "cum_receipt": 84,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "14/07/2026",
+      "ship_date_iso": "2026-07-14",
+      "dod_date": "29/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 14,
+      "cum_qty": 98,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "08/09/2026",
+      "ship_date_iso": "2026-09-08",
+      "dod_date": "23/09/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 9,
+      "cum_qty": 107,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
