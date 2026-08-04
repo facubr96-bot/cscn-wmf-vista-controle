@@ -1,0 +1,87 @@
+{
+  "header": {
+    "pn": "91803402",
+    "supplier_code": "BPX73",
+    "description": "BATENTE",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36489507",
+    "release_number": "20260722",
+    "last_receipt_date": "02/02/2026",
+    "last_receipt_qty": 188,
+    "cum_receipt": 188,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "06/09/2026",
+      "ship_date_iso": "2026-09-06",
+      "dod_date": "21/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 300,
+      "cum_qty": 488,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "02/03/2027",
+      "ship_date_iso": "2027-03-02",
+      "dod_date": "17/03/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 300,
+      "cum_qty": 788,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/07/2027",
+      "ship_date_iso": "2027-07-22",
+      "dod_date": "06/08/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 300,
+      "cum_qty": 1088,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/11/2027",
+      "ship_date_iso": "2027-11-24",
+      "dod_date": "09/12/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 300,
+      "cum_qty": 1388,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/04/2028",
+      "ship_date_iso": "2028-04-23",
+      "dod_date": "08/05/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 300,
+      "cum_qty": 1688,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/09/2028",
+      "ship_date_iso": "2028-09-24",
+      "dod_date": "09/10/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 69,
+      "cum_qty": 1757,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
