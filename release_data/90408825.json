@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "90408825",
+    "supplier_code": "BJF54",
+    "description": "CHICOTE ELETRICO",
+    "supplier_pn": "",
+    "revision": "G",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36711037",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "30/08/2026",
+      "ship_date_iso": "2026-08-30",
+      "dod_date": "14/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 77,
+      "cum_qty": 77,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "02/09/2026",
+      "ship_date_iso": "2026-09-02",
+      "dod_date": "17/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 16,
+      "cum_qty": 93,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
