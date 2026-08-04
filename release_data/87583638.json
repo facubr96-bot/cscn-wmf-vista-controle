@@ -1,0 +1,76 @@
+{
+  "header": {
+    "pn": "87583638",
+    "supplier_code": "BLH98",
+    "description": "ARRUELA",
+    "supplier_pn": "",
+    "revision": "E",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36365364",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "27/10/2026",
+      "ship_date_iso": "2026-10-27",
+      "dod_date": "11/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 200,
+      "cum_qty": 200,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "31/03/2027",
+      "ship_date_iso": "2027-03-31",
+      "dod_date": "15/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 200,
+      "cum_qty": 400,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/08/2027",
+      "ship_date_iso": "2027-08-24",
+      "dod_date": "08/09/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 200,
+      "cum_qty": 600,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/04/2028",
+      "ship_date_iso": "2028-04-23",
+      "dod_date": "08/05/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 200,
+      "cum_qty": 800,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/09/2028",
+      "ship_date_iso": "2028-09-24",
+      "dod_date": "09/10/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 60,
+      "cum_qty": 860,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
