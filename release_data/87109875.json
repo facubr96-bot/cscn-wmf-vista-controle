@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "87109875",
+    "supplier_code": "BML33",
+    "description": "MANIPULO",
+    "supplier_pn": "",
+    "revision": "",
+    "ship_frequency": "",
+    "issue_date": "03/06/2026",
+    "po_number": "CB36402057",
+    "release_number": "20260603",
+    "last_receipt_date": "05/05/2026",
+    "last_receipt_qty": 3,
+    "cum_receipt": 99,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "01/06/2026",
+      "ship_date_iso": "2026-06-01",
+      "dod_date": "16/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 3,
+      "cum_qty": 102,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
