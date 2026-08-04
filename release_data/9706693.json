@@ -1,0 +1,109 @@
+{
+  "header": {
+    "pn": "9706693",
+    "supplier_code": "FHZ16",
+    "description": "PARAFUSO DE ACO SEXTAVADO M12X",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363243",
+    "release_number": "20260722",
+    "last_receipt_date": "19/06/2026",
+    "last_receipt_qty": 500,
+    "cum_receipt": 1000,
+    "in_transit": 114,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "05/06/2026",
+      "ship_date_iso": "2026-06-05",
+      "dod_date": "20/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 14,
+      "cum_qty": 1014,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/10/2026",
+      "ship_date_iso": "2026-10-22",
+      "dod_date": "06/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 100,
+      "cum_qty": 1114,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "02/03/2027",
+      "ship_date_iso": "2027-03-02",
+      "dod_date": "17/03/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 100,
+      "cum_qty": 1214,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2027",
+      "ship_date_iso": "2027-06-22",
+      "dod_date": "07/07/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 100,
+      "cum_qty": 1314,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/09/2027",
+      "ship_date_iso": "2027-09-22",
+      "dod_date": "07/10/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 100,
+      "cum_qty": 1414,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/03/2028",
+      "ship_date_iso": "2028-03-20",
+      "dod_date": "04/04/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 100,
+      "cum_qty": 1514,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2028",
+      "ship_date_iso": "2028-06-22",
+      "dod_date": "07/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 100,
+      "cum_qty": 1614,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/09/2028",
+      "ship_date_iso": "2028-09-24",
+      "dod_date": "09/10/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 31,
+      "cum_qty": 1645,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
