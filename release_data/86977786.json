@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "86977786",
+    "supplier_code": "FHZ16",
+    "description": "PARAFUSO SEXTAVADO DE ACO M6X2",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "01/07/2026",
+    "po_number": "CB36363107",
+    "release_number": "20260701",
+    "last_receipt_date": "30/06/2026",
+    "last_receipt_qty": 500,
+    "cum_receipt": 3500,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "30/07/2026",
+      "ship_date_iso": "2026-07-30",
+      "dod_date": "14/08/2026",
+      "bucket_label": "Today",
+      "bucket_class": "bucket-today",
+      "qty": 1500,
+      "cum_qty": 5000,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
