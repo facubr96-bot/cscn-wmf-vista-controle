@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "87036419",
+    "supplier_code": "BNF47",
+    "description": "ESPACADOR DE ACO TUBULAR 1\" ZN",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36564567",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "07/12/2026",
+      "ship_date_iso": "2026-12-07",
+      "dod_date": "22/12/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 202,
+      "cum_qty": 202,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
