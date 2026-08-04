@@ -1,14 +1,14 @@
 {
   "header": {
     "pn": "48153235",
-    "supplier_code": "WMFBR",
+    "supplier_code": "BJR81",
     "description": "SUPORTE",
     "supplier_pn": "",
     "revision": "B",
     "ship_frequency": "",
-    "issue_date": "15/07/2026",
+    "issue_date": "29/07/2026",
     "po_number": "CB36363297",
-    "release_number": "20260715",
+    "release_number": "20260729",
     "last_receipt_date": "",
     "last_receipt_qty": "",
     "cum_receipt": 0,
@@ -17,13 +17,13 @@
   },
   "columns": [
     {
-      "ship_date": "26/04/2026",
-      "ship_date_iso": "2026-04-26",
-      "dod_date": "11/05/2026",
-      "bucket_label": "Past Due",
-      "bucket_class": "bucket-pastdue",
-      "qty": 32,
-      "cum_qty": 32,
+      "ship_date": "13/09/2026",
+      "ship_date_iso": "2026-09-13",
+      "dod_date": "28/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 9,
+      "cum_qty": 9,
       "promise_qty": null,
       "promise_approx": false
     }
