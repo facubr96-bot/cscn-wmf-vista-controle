@@ -1,0 +1,65 @@
+{
+  "header": {
+    "pn": "92041854",
+    "supplier_code": "BPW70",
+    "description": "TUBAGEM HIDRAULICO",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36364556",
+    "release_number": "20260722",
+    "last_receipt_date": "08/04/2026",
+    "last_receipt_qty": 15,
+    "cum_receipt": 760,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "15/10/2026",
+      "ship_date_iso": "2026-10-15",
+      "dod_date": "30/10/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 390,
+      "cum_qty": 1150,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "18/05/2027",
+      "ship_date_iso": "2027-05-18",
+      "dod_date": "02/06/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 390,
+      "cum_qty": 1540,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/11/2027",
+      "ship_date_iso": "2027-11-24",
+      "dod_date": "09/12/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 390,
+      "cum_qty": 1930,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2028",
+      "ship_date_iso": "2028-06-22",
+      "dod_date": "07/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 274,
+      "cum_qty": 2204,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
