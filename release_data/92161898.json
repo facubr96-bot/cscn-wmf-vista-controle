@@ -1,0 +1,76 @@
+{
+  "header": {
+    "pn": "92161898",
+    "supplier_code": "FQJ97",
+    "description": "PENEIRA",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36668758",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "19/05/2026",
+      "ship_date_iso": "2026-05-19",
+      "dod_date": "03/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 10,
+      "cum_qty": 10,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "21/06/2026",
+      "ship_date_iso": "2026-06-21",
+      "dod_date": "06/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 10,
+      "cum_qty": 20,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "12/07/2026",
+      "ship_date_iso": "2026-07-12",
+      "dod_date": "27/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 10,
+      "cum_qty": 30,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "04/08/2026",
+      "ship_date_iso": "2026-08-04",
+      "dod_date": "19/08/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 10,
+      "cum_qty": 40,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "18/11/2027",
+      "ship_date_iso": "2027-11-18",
+      "dod_date": "03/12/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 7,
+      "cum_qty": 47,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
