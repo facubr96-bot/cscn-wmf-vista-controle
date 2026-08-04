@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "91843698",
+    "supplier_code": "WMFBR",
+    "description": "DEFLETOR",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "03/06/2026",
+    "po_number": "CB36363532",
+    "release_number": "20260603",
+    "last_receipt_date": "02/12/2025",
+    "last_receipt_qty": 91,
+    "cum_receipt": 321,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "07/06/2026",
+      "ship_date_iso": "2026-06-07",
+      "dod_date": "22/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 22,
+      "cum_qty": 343,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "18/06/2026",
+      "ship_date_iso": "2026-06-18",
+      "dod_date": "03/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 8,
+      "cum_qty": 351,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
