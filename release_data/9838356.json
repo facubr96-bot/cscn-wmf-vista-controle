@@ -1,0 +1,87 @@
+{
+  "header": {
+    "pn": "9838356",
+    "supplier_code": "BLH98",
+    "description": "ARRUELA DE ACO 2X30,5X40MM",
+    "supplier_pn": "",
+    "revision": "C",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36364281",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "05/06/2026",
+      "ship_date_iso": "2026-06-05",
+      "dod_date": "20/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 212,
+      "cum_qty": 212,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "01/07/2026",
+      "ship_date_iso": "2026-07-01",
+      "dod_date": "16/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 50,
+      "cum_qty": 262,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/03/2027",
+      "ship_date_iso": "2027-03-24",
+      "dod_date": "08/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 312,
+      "promise_qty": 300,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "24/08/2027",
+      "ship_date_iso": "2027-08-24",
+      "dod_date": "08/09/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 362,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/04/2028",
+      "ship_date_iso": "2028-04-23",
+      "dod_date": "08/05/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 412,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/09/2028",
+      "ship_date_iso": "2028-09-24",
+      "dod_date": "09/10/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 6,
+      "cum_qty": 418,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
