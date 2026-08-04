@@ -1,0 +1,54 @@
+{
+  "header": {
+    "pn": "84511178",
+    "supplier_code": "BPW70",
+    "description": "TUBO DE BORRACHA",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36364544",
+    "release_number": "20260722",
+    "last_receipt_date": "22/07/2026",
+    "last_receipt_qty": 10,
+    "cum_receipt": 381,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "09/08/2026",
+      "ship_date_iso": "2026-08-09",
+      "dod_date": "24/08/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 10,
+      "cum_qty": 391,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/08/2026",
+      "ship_date_iso": "2026-08-23",
+      "dod_date": "07/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 10,
+      "cum_qty": 401,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/08/2026",
+      "ship_date_iso": "2026-08-24",
+      "dod_date": "08/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 8,
+      "cum_qty": 409,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
