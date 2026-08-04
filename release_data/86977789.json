@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "86977789",
+    "supplier_code": "FHZ16",
+    "description": "PARAFUSO DE ACO M6X35 8.8 ZINC",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363236",
+    "release_number": "20260722",
+    "last_receipt_date": "19/06/2026",
+    "last_receipt_qty": 400,
+    "cum_receipt": 400,
+    "in_transit": 342,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "02/06/2026",
+      "ship_date_iso": "2026-06-02",
+      "dod_date": "17/06/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 342,
+      "cum_qty": 742,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
