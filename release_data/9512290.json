@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "9512290",
+    "supplier_code": "FHZ16",
+    "description": "REBITE DE ALUMINIO",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36428014",
+    "release_number": "20260722",
+    "last_receipt_date": "30/06/2026",
+    "last_receipt_qty": 100,
+    "cum_receipt": 204,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "07/04/2027",
+      "ship_date_iso": "2027-04-07",
+      "dod_date": "22/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 331,
+      "cum_qty": 535,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
