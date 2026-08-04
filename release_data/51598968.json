@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "51598968",
+    "supplier_code": "BJP82",
+    "description": "SUPORTE",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "29/07/2026",
+    "po_number": "CB36719436",
+    "release_number": "20260729",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "12/09/2026",
+      "ship_date_iso": "2026-09-12",
+      "dod_date": "27/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 9,
+      "cum_qty": 9,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
