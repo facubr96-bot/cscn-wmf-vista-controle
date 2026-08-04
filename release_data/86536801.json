@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "86536801",
+    "supplier_code": "FHZ16",
+    "description": "ANEL ELASTICO CIRCLIP",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36527659",
+    "release_number": "20260722",
+    "last_receipt_date": "30/06/2026",
+    "last_receipt_qty": 300,
+    "cum_receipt": 1800,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "29/06/2026",
+      "ship_date_iso": "2026-06-29",
+      "dod_date": "14/07/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 200,
+      "cum_qty": 2000,
+      "promise_qty": 300,
+      "promise_approx": true
+    }
+  ],
+  "promise_note": ""
+}
