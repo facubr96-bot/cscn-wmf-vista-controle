@@ -1,0 +1,76 @@
+{
+  "header": {
+    "pn": "92308656",
+    "supplier_code": "BQQ45",
+    "description": "DECALQUE",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36347769",
+    "release_number": "20260722",
+    "last_receipt_date": "24/06/2026",
+    "last_receipt_qty": 500,
+    "cum_receipt": 2048,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "30/09/2026",
+      "ship_date_iso": "2026-09-30",
+      "dod_date": "15/10/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 500,
+      "cum_qty": 2548,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/03/2027",
+      "ship_date_iso": "2027-03-24",
+      "dod_date": "08/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 500,
+      "cum_qty": 3048,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/08/2027",
+      "ship_date_iso": "2027-08-24",
+      "dod_date": "08/09/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 500,
+      "cum_qty": 3548,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/01/2028",
+      "ship_date_iso": "2028-01-23",
+      "dod_date": "07/02/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 500,
+      "cum_qty": 4048,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2028",
+      "ship_date_iso": "2028-06-22",
+      "dod_date": "07/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 397,
+      "cum_qty": 4445,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
