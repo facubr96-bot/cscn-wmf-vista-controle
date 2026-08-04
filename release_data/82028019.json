@@ -1,0 +1,87 @@
+{
+  "header": {
+    "pn": "82028019",
+    "supplier_code": "BNK46",
+    "description": "HASTE DE ACO - 10 PESOS",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "29/07/2026",
+    "po_number": "CB36719438",
+    "release_number": "20260729",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "12/09/2026",
+      "ship_date_iso": "2026-09-12",
+      "dod_date": "27/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 60,
+      "cum_qty": 60,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/12/2026",
+      "ship_date_iso": "2026-12-09",
+      "dod_date": "24/12/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 8,
+      "cum_qty": 68,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "10/01/2027",
+      "ship_date_iso": "2027-01-10",
+      "dod_date": "25/01/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 32,
+      "cum_qty": 100,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "07/02/2027",
+      "ship_date_iso": "2027-02-07",
+      "dod_date": "22/02/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 28,
+      "cum_qty": 128,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/03/2027",
+      "ship_date_iso": "2027-03-09",
+      "dod_date": "24/03/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 18,
+      "cum_qty": 146,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/04/2027",
+      "ship_date_iso": "2027-04-11",
+      "dod_date": "26/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 11,
+      "cum_qty": 157,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
