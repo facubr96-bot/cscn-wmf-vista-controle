@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "9576276",
+    "supplier_code": "BLL51",
+    "description": "CAMARA DE AR 18.4 X 38",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36700528",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 76,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "27/07/2026",
+      "ship_date_iso": "2026-07-27",
+      "dod_date": "11/08/2026",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 75,
+      "cum_qty": 75,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
