@@ -1,0 +1,98 @@
+{
+  "header": {
+    "pn": "92817756",
+    "supplier_code": "DYY59",
+    "description": "BRACKET FR, PANEL HOOD LH PTD",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36703513",
+    "release_number": "20260722",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "08/09/2026",
+      "ship_date_iso": "2026-09-08",
+      "dod_date": "23/09/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 128,
+      "cum_qty": 128,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "17/03/2027",
+      "ship_date_iso": "2027-03-17",
+      "dod_date": "01/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 128,
+      "cum_qty": 256,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2027",
+      "ship_date_iso": "2027-06-22",
+      "dod_date": "07/07/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 128,
+      "cum_qty": 384,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/10/2027",
+      "ship_date_iso": "2027-10-24",
+      "dod_date": "08/11/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 128,
+      "cum_qty": 512,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/02/2028",
+      "ship_date_iso": "2028-02-23",
+      "dod_date": "09/03/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 128,
+      "cum_qty": 640,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/06/2028",
+      "ship_date_iso": "2028-06-22",
+      "dod_date": "07/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 128,
+      "cum_qty": 768,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/10/2028",
+      "ship_date_iso": "2028-10-24",
+      "dod_date": "08/11/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 24,
+      "cum_qty": 792,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
