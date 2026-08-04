@@ -1,0 +1,65 @@
+{
+  "header": {
+    "pn": "86603485",
+    "supplier_code": "BJD65",
+    "description": "PISO INFERIOR DO ELEVADOR DE G",
+    "supplier_pn": "",
+    "revision": "C",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36476774",
+    "release_number": "20260722",
+    "last_receipt_date": "18/09/2025",
+    "last_receipt_qty": 1,
+    "cum_receipt": 30,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "05/10/2026",
+      "ship_date_iso": "2026-10-05",
+      "dod_date": "20/10/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 30,
+      "cum_qty": 60,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/07/2027",
+      "ship_date_iso": "2027-07-22",
+      "dod_date": "06/08/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 30,
+      "cum_qty": 90,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/03/2028",
+      "ship_date_iso": "2028-03-20",
+      "dod_date": "04/04/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 30,
+      "cum_qty": 120,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/09/2028",
+      "ship_date_iso": "2028-09-24",
+      "dod_date": "09/10/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1,
+      "cum_qty": 121,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
