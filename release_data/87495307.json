@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "87495307",
+    "supplier_code": "BLH98",
+    "description": "PARAFUSO",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36365355",
+    "release_number": "20260722",
+    "last_receipt_date": "10/09/2025",
+    "last_receipt_qty": 500,
+    "cum_receipt": 500,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "22/10/2026",
+      "ship_date_iso": "2026-10-22",
+      "dod_date": "06/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 500,
+      "cum_qty": 1000,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/12/2027",
+      "ship_date_iso": "2027-12-20",
+      "dod_date": "04/01/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 360,
+      "cum_qty": 1360,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
