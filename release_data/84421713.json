@@ -1,0 +1,76 @@
+{
+  "header": {
+    "pn": "84421713",
+    "supplier_code": "BMX47",
+    "description": "CHAPA DE ACO",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36363720",
+    "release_number": "20260722",
+    "last_receipt_date": "29/06/2026",
+    "last_receipt_qty": 100,
+    "cum_receipt": 205,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "16/09/2026",
+      "ship_date_iso": "2026-09-16",
+      "dod_date": "01/10/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 255,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "07/04/2027",
+      "ship_date_iso": "2027-04-07",
+      "dod_date": "22/04/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 305,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "22/09/2027",
+      "ship_date_iso": "2027-09-22",
+      "dod_date": "07/10/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 355,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/03/2028",
+      "ship_date_iso": "2028-03-20",
+      "dod_date": "04/04/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 405,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "23/08/2028",
+      "ship_date_iso": "2028-08-23",
+      "dod_date": "07/09/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 25,
+      "cum_qty": 430,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
