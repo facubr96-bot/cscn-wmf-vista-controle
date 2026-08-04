@@ -6,12 +6,12 @@
     "supplier_pn": "",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "22/07/2026",
+    "issue_date": "29/07/2026",
     "po_number": "CB36364931",
-    "release_number": "20260722",
-    "last_receipt_date": "02/07/2026",
-    "last_receipt_qty": 4,
-    "cum_receipt": 150,
+    "release_number": "20260729",
+    "last_receipt_date": "29/07/2026",
+    "last_receipt_qty": 0,
+    "cum_receipt": 159,
     "in_transit": 9,
     "pur_pun_qty": "N/D"
   },
@@ -28,9 +28,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "23/09/2026",
-      "ship_date_iso": "2026-09-23",
-      "dod_date": "08/10/2026",
+      "ship_date": "15/09/2026",
+      "ship_date_iso": "2026-09-15",
+      "dod_date": "30/09/2026",
       "bucket_label": "Fab Auth",
       "bucket_class": "bucket-other",
       "qty": 15,
@@ -39,9 +39,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "17/11/2026",
-      "ship_date_iso": "2026-11-17",
-      "dod_date": "02/12/2026",
+      "ship_date": "11/11/2026",
+      "ship_date_iso": "2026-11-11",
+      "dod_date": "26/11/2026",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 15,
@@ -50,9 +50,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "10/02/2027",
-      "ship_date_iso": "2027-02-10",
-      "dod_date": "25/02/2027",
+      "ship_date": "03/02/2027",
+      "ship_date_iso": "2027-02-03",
+      "dod_date": "18/02/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 15,
@@ -61,9 +61,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "17/03/2027",
-      "ship_date_iso": "2027-03-17",
-      "dod_date": "01/04/2027",
+      "ship_date": "09/03/2027",
+      "ship_date_iso": "2027-03-09",
+      "dod_date": "24/03/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 15,
@@ -72,9 +72,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "11/05/2027",
-      "ship_date_iso": "2027-05-11",
-      "dod_date": "26/05/2027",
+      "ship_date": "14/04/2027",
+      "ship_date_iso": "2027-04-14",
+      "dod_date": "29/04/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 15,
