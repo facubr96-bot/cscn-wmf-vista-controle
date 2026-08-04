@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "91701906",
+    "supplier_code": "WMFBR",
+    "description": "CHICOTE FV",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "01/07/2026",
+    "po_number": "CB36585973",
+    "release_number": "20260701",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "22/11/2027",
+      "ship_date_iso": "2027-11-22",
+      "dod_date": "07/12/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1,
+      "cum_qty": 1,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
