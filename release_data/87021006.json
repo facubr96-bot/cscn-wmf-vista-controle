@@ -1,0 +1,131 @@
+{
+  "header": {
+    "pn": "87021006",
+    "supplier_code": "BJG54",
+    "description": "PARAFUSO FLANGE 10X16-ACO",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "22/07/2026",
+    "po_number": "CB36376357",
+    "release_number": "20260722",
+    "last_receipt_date": "10/06/2026",
+    "last_receipt_qty": 1000,
+    "cum_receipt": 10465,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "27/08/2026",
+      "ship_date_iso": "2026-08-27",
+      "dod_date": "11/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 1000,
+      "cum_qty": 10465,
+      "promise_qty": 2,
+      "promise_approx": true
+    },
+    {
+      "ship_date": "11/10/2026",
+      "ship_date_iso": "2026-10-11",
+      "dod_date": "26/10/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 11465,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/11/2026",
+      "ship_date_iso": "2026-11-09",
+      "dod_date": "24/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 12465,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "31/01/2027",
+      "ship_date_iso": "2027-01-31",
+      "dod_date": "15/02/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 13465,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "25/02/2027",
+      "ship_date_iso": "2027-02-25",
+      "dod_date": "12/03/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 14465,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "28/04/2027",
+      "ship_date_iso": "2027-04-28",
+      "dod_date": "13/05/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 15465,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "10/06/2027",
+      "ship_date_iso": "2027-06-10",
+      "dod_date": "25/06/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 16465,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "12/07/2027",
+      "ship_date_iso": "2027-07-12",
+      "dod_date": "27/07/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 17465,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/11/2027",
+      "ship_date_iso": "2027-11-11",
+      "dod_date": "26/11/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1000,
+      "cum_qty": 18465,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "12/07/2028",
+      "ship_date_iso": "2028-07-12",
+      "dod_date": "27/07/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 792,
+      "cum_qty": 19257,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
