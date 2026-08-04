@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "48151157",
+    "supplier_code": "BLC18",
+    "description": "ELO DE LIGACAO",
+    "supplier_pn": "",
+    "revision": "C",
+    "ship_frequency": "",
+    "issue_date": "29/07/2026",
+    "po_number": "CB36364626",
+    "release_number": "20260729",
+    "last_receipt_date": "10/04/2026",
+    "last_receipt_qty": 12,
+    "cum_receipt": 108,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "13/09/2026",
+      "ship_date_iso": "2026-09-13",
+      "dod_date": "28/09/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 15,
+      "cum_qty": 123,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
