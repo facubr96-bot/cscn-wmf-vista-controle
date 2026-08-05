@@ -46,8 +46,8 @@
       "bucket_class": "bucket-other",
       "qty": 40,
       "cum_qty": 133,
-      "promise_qty": null,
-      "promise_approx": false
+      "promise_qty": 93,
+      "promise_approx": true
     },
     {
       "ship_date": "20/01/2027",
