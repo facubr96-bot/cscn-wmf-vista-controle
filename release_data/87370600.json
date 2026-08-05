@@ -12,7 +12,7 @@
     "last_receipt_date": "29/07/2026",
     "last_receipt_qty": 0,
     "cum_receipt": 782,
-    "in_transit": 32,
+    "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
@@ -68,8 +68,8 @@
       "bucket_class": "bucket-firm",
       "qty": 16,
       "cum_qty": 816,
-      "promise_qty": null,
-      "promise_approx": false
+      "promise_qty": 50,
+      "promise_approx": true
     },
     {
       "ship_date": "20/08/2026",
