@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "29/07/2026",
+    "issue_date": "05/08/2026",
     "po_number": "CB36364521",
-    "release_number": "20260729",
+    "release_number": "20260805",
     "last_receipt_date": "28/04/2026",
     "last_receipt_qty": 10,
     "cum_receipt": 154,
@@ -28,59 +28,15 @@
       "promise_approx": false
     },
     {
-      "ship_date": "05/10/2026",
-      "ship_date_iso": "2026-10-05",
-      "dod_date": "20/10/2026",
-      "bucket_label": "Fab Auth",
-      "bucket_class": "bucket-other",
-      "qty": 20,
-      "cum_qty": 184,
+      "ship_date": "20/09/2026",
+      "ship_date_iso": "2026-09-20",
+      "dod_date": "05/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 11,
+      "cum_qty": 175,
       "promise_qty": 10,
       "promise_approx": true
-    },
-    {
-      "ship_date": "13/01/2027",
-      "ship_date_iso": "2027-01-13",
-      "dod_date": "28/01/2027",
-      "bucket_label": "Planning",
-      "bucket_class": "bucket-other",
-      "qty": 20,
-      "cum_qty": 204,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
-      "ship_date": "09/03/2027",
-      "ship_date_iso": "2027-03-09",
-      "dod_date": "24/03/2027",
-      "bucket_label": "Planning",
-      "bucket_class": "bucket-other",
-      "qty": 20,
-      "cum_qty": 224,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
-      "ship_date": "11/05/2027",
-      "ship_date_iso": "2027-05-11",
-      "dod_date": "26/05/2027",
-      "bucket_label": "Planning",
-      "bucket_class": "bucket-other",
-      "qty": 20,
-      "cum_qty": 244,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
-      "ship_date": "22/07/2027",
-      "ship_date_iso": "2027-07-22",
-      "dod_date": "06/08/2027",
-      "bucket_label": "Planning",
-      "bucket_class": "bucket-other",
-      "qty": 14,
-      "cum_qty": 258,
-      "promise_qty": null,
-      "promise_approx": false
     }
   ],
   "promise_note": ""
