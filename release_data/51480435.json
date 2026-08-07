@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "51480435",
+    "supplier_code": "WMFBR",
+    "description": "TANQUE DE COMBUSTIVEL 220L",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "05/08/2026",
+    "po_number": "CB36726808",
+    "release_number": "20260805",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "09/10/2026",
+      "ship_date_iso": "2026-10-09",
+      "dod_date": "24/10/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 10,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
