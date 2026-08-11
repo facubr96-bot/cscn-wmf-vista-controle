@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "87011374",
+    "supplier_code": "BPX73",
+    "description": "COBERTURA DE ACO",
+    "supplier_pn": "",
+    "revision": "H",
+    "ship_frequency": "",
+    "issue_date": "05/08/2026",
+    "po_number": "CB36364722",
+    "release_number": "20260805",
+    "last_receipt_date": "07/11/2025",
+    "last_receipt_qty": 10,
+    "cum_receipt": 100,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "20/12/2026",
+      "ship_date_iso": "2026-12-20",
+      "dod_date": "04/01/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 2,
+      "cum_qty": 102,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
