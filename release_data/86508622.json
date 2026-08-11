@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "B",
     "ship_frequency": "",
-    "issue_date": "29/07/2026",
+    "issue_date": "05/08/2026",
     "po_number": "CB36435624",
-    "release_number": "20260729",
+    "release_number": "20260805",
     "last_receipt_date": "13/08/2025",
     "last_receipt_qty": 1,
     "cum_receipt": 175,
@@ -17,13 +17,13 @@
   },
   "columns": [
     {
-      "ship_date": "23/09/2026",
-      "ship_date_iso": "2026-09-23",
-      "dod_date": "08/10/2026",
-      "bucket_label": "Fab Auth",
-      "bucket_class": "bucket-other",
-      "qty": 145,
-      "cum_qty": 320,
+      "ship_date": "21/09/2026",
+      "ship_date_iso": "2026-09-21",
+      "dod_date": "06/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 149,
+      "cum_qty": 324,
       "promise_qty": null,
       "promise_approx": false
     }
