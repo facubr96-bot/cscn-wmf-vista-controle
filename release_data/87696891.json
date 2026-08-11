@@ -1,0 +1,98 @@
+{
+  "header": {
+    "pn": "87696891",
+    "supplier_code": "BLC18",
+    "description": "DEFLETOR DE ACO DO TRANSPORTAD",
+    "supplier_pn": "",
+    "revision": "L",
+    "ship_frequency": "",
+    "issue_date": "05/08/2026",
+    "po_number": "CB36433649",
+    "release_number": "20260805",
+    "last_receipt_date": "02/10/2025",
+    "last_receipt_qty": 14,
+    "cum_receipt": 34,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "20/09/2026",
+      "ship_date_iso": "2026-09-20",
+      "dod_date": "05/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 1,
+      "cum_qty": 35,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/10/2026",
+      "ship_date_iso": "2026-10-11",
+      "dod_date": "26/10/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 2,
+      "cum_qty": 37,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "26/10/2026",
+      "ship_date_iso": "2026-10-26",
+      "dod_date": "10/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 2,
+      "cum_qty": 39,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "09/11/2026",
+      "ship_date_iso": "2026-11-09",
+      "dod_date": "24/11/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1,
+      "cum_qty": 40,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "30/11/2026",
+      "ship_date_iso": "2026-11-30",
+      "dod_date": "15/12/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1,
+      "cum_qty": 41,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "02/12/2026",
+      "ship_date_iso": "2026-12-02",
+      "dod_date": "17/12/2026",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1,
+      "cum_qty": 42,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/12/2026",
+      "ship_date_iso": "2026-12-20",
+      "dod_date": "04/01/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 1,
+      "cum_qty": 43,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
