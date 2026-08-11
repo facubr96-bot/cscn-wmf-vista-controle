@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "90514851",
+    "supplier_code": "BQV50",
+    "description": "CHICOTE",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "05/08/2026",
+    "po_number": "CB36366329",
+    "release_number": "20260805",
+    "last_receipt_date": "23/02/2026",
+    "last_receipt_qty": 8,
+    "cum_receipt": 57,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "20/09/2026",
+      "ship_date_iso": "2026-09-20",
+      "dod_date": "05/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 4,
+      "cum_qty": 61,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
