@@ -12,7 +12,7 @@
     "last_receipt_date": "05/05/2026",
     "last_receipt_qty": 200,
     "cum_receipt": 2500,
-    "in_transit": 0,
+    "in_transit": 250,
     "pur_pun_qty": "N/D"
   },
   "columns": [
@@ -79,8 +79,8 @@
       "bucket_class": "bucket-pastdue",
       "qty": 6,
       "cum_qty": 2628,
-      "promise_qty": 250,
-      "promise_approx": true
+      "promise_qty": null,
+      "promise_approx": false
     },
     {
       "ship_date": "30/07/2026",
@@ -108,8 +108,8 @@
       "ship_date": "11/08/2026",
       "ship_date_iso": "2026-08-11",
       "dod_date": "26/08/2026",
-      "bucket_label": "Today",
-      "bucket_class": "bucket-today",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
       "qty": 12,
       "cum_qty": 2678,
       "promise_qty": null,
