@@ -31,12 +31,12 @@
       "ship_date": "11/08/2026",
       "ship_date_iso": "2026-08-11",
       "dod_date": "26/08/2026",
-      "bucket_label": "Today",
-      "bucket_class": "bucket-today",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
       "qty": 90,
       "cum_qty": 1559,
-      "promise_qty": 95,
-      "promise_approx": true
+      "promise_qty": null,
+      "promise_approx": false
     },
     {
       "ship_date": "07/09/2026",
