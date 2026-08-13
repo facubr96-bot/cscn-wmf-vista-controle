@@ -11,8 +11,8 @@
     "release_number": "20260805",
     "last_receipt_date": "22/07/2026",
     "last_receipt_qty": 172,
-    "cum_receipt": 368,
-    "in_transit": 100,
+    "cum_receipt": 418,
+    "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
@@ -24,8 +24,8 @@
       "bucket_class": "bucket-firm",
       "qty": 50,
       "cum_qty": 418,
-      "promise_qty": 172,
-      "promise_approx": true
+      "promise_qty": null,
+      "promise_approx": false
     },
     {
       "ship_date": "08/09/2026",
