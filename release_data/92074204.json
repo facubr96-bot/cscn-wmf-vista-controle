@@ -11,8 +11,8 @@
     "release_number": "20260805",
     "last_receipt_date": "06/07/2026",
     "last_receipt_qty": 11,
-    "cum_receipt": 209,
-    "in_transit": 52,
+    "cum_receipt": 235,
+    "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
@@ -24,8 +24,8 @@
       "bucket_class": "bucket-pastdue",
       "qty": 7,
       "cum_qty": 216,
-      "promise_qty": 20,
-      "promise_approx": true
+      "promise_qty": null,
+      "promise_approx": false
     },
     {
       "ship_date": "15/07/2026",
@@ -42,8 +42,8 @@
       "ship_date": "12/08/2026",
       "ship_date_iso": "2026-08-12",
       "dod_date": "27/08/2026",
-      "bucket_label": "Firm",
-      "bucket_class": "bucket-firm",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
       "qty": 20,
       "cum_qty": 256,
       "promise_qty": null,
@@ -57,8 +57,8 @@
       "bucket_class": "bucket-firm",
       "qty": 20,
       "cum_qty": 276,
-      "promise_qty": null,
-      "promise_approx": false
+      "promise_qty": 27,
+      "promise_approx": true
     },
     {
       "ship_date": "15/09/2026",
