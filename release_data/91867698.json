@@ -12,7 +12,7 @@
     "last_receipt_date": "26/12/2025",
     "last_receipt_qty": 80,
     "cum_receipt": 280,
-    "in_transit": 0,
+    "in_transit": 5,
     "pur_pun_qty": "N/D"
   },
   "columns": [
