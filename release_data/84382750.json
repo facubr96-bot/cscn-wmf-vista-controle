@@ -12,7 +12,7 @@
     "last_receipt_date": "28/07/2026",
     "last_receipt_qty": 204,
     "cum_receipt": 500,
-    "in_transit": 296,
+    "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
@@ -24,8 +24,8 @@
       "bucket_class": "bucket-pastdue",
       "qty": 296,
       "cum_qty": 500,
-      "promise_qty": 204,
-      "promise_approx": true
+      "promise_qty": null,
+      "promise_approx": false
     }
   ],
   "promise_note": ""
