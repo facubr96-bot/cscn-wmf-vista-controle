@@ -1,0 +1,54 @@
+{
+  "header": {
+    "pn": "5179587",
+    "supplier_code": "BNK46",
+    "description": "TIRANTE DE ACO DO CONTRAP",
+    "supplier_pn": "",
+    "revision": "00",
+    "ship_frequency": "",
+    "issue_date": "19/08/2026",
+    "po_number": "CB36729726",
+    "release_number": "20260819",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "27/09/2026",
+      "ship_date_iso": "2026-09-27",
+      "dod_date": "12/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 150,
+      "cum_qty": 150,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "21/04/2027",
+      "ship_date_iso": "2027-04-21",
+      "dod_date": "06/05/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 150,
+      "cum_qty": 300,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "20/03/2028",
+      "ship_date_iso": "2028-03-20",
+      "dod_date": "04/04/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 76,
+      "cum_qty": 376,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
