@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "51464131",
+    "supplier_code": "BML88",
+    "description": "SUPORTE",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "19/08/2026",
+    "po_number": "CB36729875",
+    "release_number": "20260819",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "25/10/2026",
+      "ship_date_iso": "2026-10-25",
+      "dod_date": "09/11/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 50,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
