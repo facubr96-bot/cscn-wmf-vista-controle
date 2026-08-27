@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "05/08/2026",
+    "issue_date": "19/08/2026",
     "po_number": "CB36364974",
-    "release_number": "20260805",
+    "release_number": "20260819",
     "last_receipt_date": "20/09/2025",
     "last_receipt_qty": 18,
     "cum_receipt": 22,
@@ -17,24 +17,13 @@
   },
   "columns": [
     {
-      "ship_date": "12/11/2026",
-      "ship_date_iso": "2026-11-12",
-      "dod_date": "27/11/2026",
-      "bucket_label": "Planning",
-      "bucket_class": "bucket-other",
-      "qty": 2,
-      "cum_qty": 24,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
       "ship_date": "29/11/2026",
       "ship_date_iso": "2026-11-29",
       "dod_date": "14/12/2026",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 1,
-      "cum_qty": 25,
+      "cum_qty": 23,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -45,18 +34,18 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 1,
-      "cum_qty": 26,
+      "cum_qty": 24,
       "promise_qty": null,
       "promise_approx": false
     },
     {
-      "ship_date": "16/12/2026",
-      "ship_date_iso": "2026-12-16",
-      "dod_date": "31/12/2026",
+      "ship_date": "15/12/2026",
+      "ship_date_iso": "2026-12-15",
+      "dod_date": "30/12/2026",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 2,
-      "cum_qty": 28,
+      "cum_qty": 26,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -67,7 +56,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 2,
-      "cum_qty": 30,
+      "cum_qty": 28,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -78,7 +67,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 5,
-      "cum_qty": 35,
+      "cum_qty": 33,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -89,29 +78,29 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 2,
+      "cum_qty": 35,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "17/01/2027",
+      "ship_date_iso": "2027-01-17",
+      "dod_date": "01/02/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 2,
       "cum_qty": 37,
       "promise_qty": null,
       "promise_approx": false
     },
     {
-      "ship_date": "13/01/2027",
-      "ship_date_iso": "2027-01-13",
-      "dod_date": "28/01/2027",
-      "bucket_label": "Planning",
-      "bucket_class": "bucket-other",
-      "qty": 2,
-      "cum_qty": 39,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
-      "ship_date": "20/01/2027",
-      "ship_date_iso": "2027-01-20",
-      "dod_date": "04/02/2027",
+      "ship_date": "21/01/2027",
+      "ship_date_iso": "2027-01-21",
+      "dod_date": "05/02/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 3,
-      "cum_qty": 42,
+      "cum_qty": 40,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -122,7 +111,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 6,
-      "cum_qty": 48,
+      "cum_qty": 46,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -133,7 +122,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 3,
-      "cum_qty": 51,
+      "cum_qty": 49,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -144,7 +133,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 3,
-      "cum_qty": 54,
+      "cum_qty": 52,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -155,7 +144,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 2,
-      "cum_qty": 56,
+      "cum_qty": 54,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -166,7 +155,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 2,
-      "cum_qty": 58,
+      "cum_qty": 56,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -177,7 +166,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 6,
-      "cum_qty": 64,
+      "cum_qty": 62,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -188,7 +177,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 3,
-      "cum_qty": 67,
+      "cum_qty": 65,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -199,7 +188,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 5,
-      "cum_qty": 72,
+      "cum_qty": 70,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -210,7 +199,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 3,
-      "cum_qty": 75,
+      "cum_qty": 73,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -221,7 +210,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 4,
-      "cum_qty": 79,
+      "cum_qty": 77,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -232,7 +221,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 2,
-      "cum_qty": 81,
+      "cum_qty": 79,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -243,7 +232,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 1,
-      "cum_qty": 82,
+      "cum_qty": 80,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -254,7 +243,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 9,
-      "cum_qty": 91,
+      "cum_qty": 89,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -265,7 +254,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 7,
-      "cum_qty": 98,
+      "cum_qty": 96,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -276,7 +265,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 9,
-      "cum_qty": 107,
+      "cum_qty": 105,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -287,7 +276,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 15,
-      "cum_qty": 122,
+      "cum_qty": 120,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -298,7 +287,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 6,
-      "cum_qty": 128,
+      "cum_qty": 126,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -309,7 +298,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 13,
-      "cum_qty": 141,
+      "cum_qty": 139,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -320,7 +309,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 10,
-      "cum_qty": 151,
+      "cum_qty": 149,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -331,7 +320,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 14,
-      "cum_qty": 165,
+      "cum_qty": 163,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -342,7 +331,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 1,
-      "cum_qty": 166,
+      "cum_qty": 164,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -353,7 +342,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 6,
-      "cum_qty": 172,
+      "cum_qty": 170,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -364,7 +353,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 12,
-      "cum_qty": 184,
+      "cum_qty": 182,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -375,7 +364,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 3,
-      "cum_qty": 187,
+      "cum_qty": 185,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -386,7 +375,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 8,
-      "cum_qty": 195,
+      "cum_qty": 193,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -397,7 +386,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 10,
-      "cum_qty": 205,
+      "cum_qty": 203,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -408,7 +397,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 8,
-      "cum_qty": 213,
+      "cum_qty": 211,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -419,7 +408,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 9,
-      "cum_qty": 222,
+      "cum_qty": 220,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -430,7 +419,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 7,
-      "cum_qty": 229,
+      "cum_qty": 227,
       "promise_qty": null,
       "promise_approx": false
     }
