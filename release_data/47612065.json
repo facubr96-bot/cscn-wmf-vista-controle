@@ -6,45 +6,23 @@
     "supplier_pn": "",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "05/08/2026",
+    "issue_date": "19/08/2026",
     "po_number": "CB36363682",
-    "release_number": "20260805",
-    "last_receipt_date": "28/07/2026",
-    "last_receipt_qty": 12,
+    "release_number": "20260819",
+    "last_receipt_date": "07/08/2026",
+    "last_receipt_qty": 23,
     "cum_receipt": 193,
     "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
     {
-      "ship_date": "12/07/2026",
-      "ship_date_iso": "2026-07-12",
-      "dod_date": "27/07/2026",
-      "bucket_label": "Past Due",
-      "bucket_class": "bucket-pastdue",
-      "qty": 4,
-      "cum_qty": 174,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
-      "ship_date": "29/07/2026",
-      "ship_date_iso": "2026-07-29",
-      "dod_date": "13/08/2026",
-      "bucket_label": "Past Due",
-      "bucket_class": "bucket-pastdue",
-      "qty": 10,
-      "cum_qty": 184,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
       "ship_date": "25/08/2026",
       "ship_date_iso": "2026-08-25",
       "dod_date": "09/09/2026",
-      "bucket_label": "Firm",
-      "bucket_class": "bucket-firm",
-      "qty": 10,
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
+      "qty": 1,
       "cum_qty": 194,
       "promise_qty": null,
       "promise_approx": false
@@ -57,7 +35,18 @@
       "bucket_class": "bucket-firm",
       "qty": 9,
       "cum_qty": 203,
-      "promise_qty": 10,
+      "promise_qty": 20,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "26/10/2026",
+      "ship_date_iso": "2026-10-26",
+      "dod_date": "10/11/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 9,
+      "cum_qty": 212,
+      "promise_qty": null,
       "promise_approx": false
     }
   ],
