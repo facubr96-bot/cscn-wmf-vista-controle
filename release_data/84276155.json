@@ -1,18 +1,18 @@
 {
   "header": {
     "pn": "84276155",
-    "supplier_code": "BVC42",
+    "supplier_code": "WMFBR",
     "description": "PLACA DE ACO",
     "supplier_pn": "",
     "revision": "B",
     "ship_frequency": "",
-    "issue_date": "05/08/2026",
+    "issue_date": "12/08/2026",
     "po_number": "CB36407204",
-    "release_number": "20260805",
+    "release_number": "20260812",
     "last_receipt_date": "04/12/2025",
     "last_receipt_qty": 26,
-    "cum_receipt": 54,
-    "in_transit": 48,
+    "cum_receipt": 102,
+    "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
@@ -22,8 +22,8 @@
       "dod_date": "07/08/2026",
       "bucket_label": "Past Due",
       "bucket_class": "bucket-pastdue",
-      "qty": 21,
-      "cum_qty": 75,
+      "qty": 48,
+      "cum_qty": 102,
       "promise_qty": null,
       "promise_approx": false
     }
