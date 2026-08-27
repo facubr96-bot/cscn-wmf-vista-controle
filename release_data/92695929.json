@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "92695929",
+    "supplier_code": "BPW70",
+    "description": "MANGUEIRA HIDRAULICA",
+    "supplier_pn": "",
+    "revision": "A",
+    "ship_frequency": "",
+    "issue_date": "19/08/2026",
+    "po_number": "CB36681719",
+    "release_number": "20260819",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "04/10/2026",
+      "ship_date_iso": "2026-10-04",
+      "dod_date": "19/10/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 10,
+      "cum_qty": 10,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
