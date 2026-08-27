@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "05/08/2026",
+    "issue_date": "19/08/2026",
     "po_number": "CB36404849",
-    "release_number": "20260805",
+    "release_number": "20260819",
     "last_receipt_date": "22/07/2026",
     "last_receipt_qty": 54,
     "cum_receipt": 383,
@@ -20,8 +20,8 @@
       "ship_date": "23/08/2026",
       "ship_date_iso": "2026-08-23",
       "dod_date": "07/09/2026",
-      "bucket_label": "Firm",
-      "bucket_class": "bucket-firm",
+      "bucket_label": "Past Due",
+      "bucket_class": "bucket-pastdue",
       "qty": 16,
       "cum_qty": 399,
       "promise_qty": null,
@@ -39,20 +39,20 @@
       "promise_approx": false
     },
     {
-      "ship_date": "28/09/2026",
-      "ship_date_iso": "2026-09-28",
-      "dod_date": "13/10/2026",
-      "bucket_label": "Fab Auth",
-      "bucket_class": "bucket-other",
+      "ship_date": "04/10/2026",
+      "ship_date_iso": "2026-10-04",
+      "dod_date": "19/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
       "qty": 20,
       "cum_qty": 439,
       "promise_qty": null,
       "promise_approx": false
     },
     {
-      "ship_date": "08/10/2026",
-      "ship_date_iso": "2026-10-08",
-      "dod_date": "23/10/2026",
+      "ship_date": "13/10/2026",
+      "ship_date_iso": "2026-10-13",
+      "dod_date": "28/10/2026",
       "bucket_label": "Fab Auth",
       "bucket_class": "bucket-other",
       "qty": 20,
@@ -61,10 +61,10 @@
       "promise_approx": false
     },
     {
-      "ship_date": "22/10/2026",
-      "ship_date_iso": "2026-10-22",
-      "dod_date": "06/11/2026",
-      "bucket_label": "Planning",
+      "ship_date": "28/10/2026",
+      "ship_date_iso": "2026-10-28",
+      "dod_date": "12/11/2026",
+      "bucket_label": "Fab Auth",
       "bucket_class": "bucket-other",
       "qty": 20,
       "cum_qty": 479,
@@ -72,9 +72,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "04/11/2026",
-      "ship_date_iso": "2026-11-04",
-      "dod_date": "19/11/2026",
+      "ship_date": "02/12/2026",
+      "ship_date_iso": "2026-12-02",
+      "dod_date": "17/12/2026",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
@@ -83,9 +83,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "16/12/2026",
-      "ship_date_iso": "2026-12-16",
-      "dod_date": "31/12/2026",
+      "ship_date": "30/12/2026",
+      "ship_date_iso": "2026-12-30",
+      "dod_date": "14/01/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
@@ -94,9 +94,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "03/01/2027",
-      "ship_date_iso": "2027-01-03",
-      "dod_date": "18/01/2027",
+      "ship_date": "11/01/2027",
+      "ship_date_iso": "2027-01-11",
+      "dod_date": "26/01/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
@@ -105,24 +105,13 @@
       "promise_approx": false
     },
     {
-      "ship_date": "13/01/2027",
-      "ship_date_iso": "2027-01-13",
-      "dod_date": "28/01/2027",
+      "ship_date": "26/01/2027",
+      "ship_date_iso": "2027-01-26",
+      "dod_date": "10/02/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
       "cum_qty": 559,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
-      "ship_date": "27/01/2027",
-      "ship_date_iso": "2027-01-27",
-      "dod_date": "11/02/2027",
-      "bucket_label": "Planning",
-      "bucket_class": "bucket-other",
-      "qty": 20,
-      "cum_qty": 579,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -133,14 +122,25 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
+      "cum_qty": 579,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "21/02/2027",
+      "ship_date_iso": "2027-02-21",
+      "dod_date": "08/03/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 20,
       "cum_qty": 599,
       "promise_qty": null,
       "promise_approx": false
     },
     {
-      "ship_date": "23/02/2027",
-      "ship_date_iso": "2027-02-23",
-      "dod_date": "10/03/2027",
+      "ship_date": "09/03/2027",
+      "ship_date_iso": "2027-03-09",
+      "dod_date": "24/03/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
@@ -149,9 +149,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "17/03/2027",
-      "ship_date_iso": "2027-03-17",
-      "dod_date": "01/04/2027",
+      "ship_date": "24/03/2027",
+      "ship_date_iso": "2027-03-24",
+      "dod_date": "08/04/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
@@ -160,24 +160,13 @@
       "promise_approx": false
     },
     {
-      "ship_date": "31/03/2027",
-      "ship_date_iso": "2027-03-31",
-      "dod_date": "15/04/2027",
+      "ship_date": "07/04/2027",
+      "ship_date_iso": "2027-04-07",
+      "dod_date": "22/04/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
       "cum_qty": 659,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
-      "ship_date": "14/04/2027",
-      "ship_date_iso": "2027-04-14",
-      "dod_date": "29/04/2027",
-      "bucket_label": "Planning",
-      "bucket_class": "bucket-other",
-      "qty": 20,
-      "cum_qty": 679,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -188,7 +177,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
-      "cum_qty": 699,
+      "cum_qty": 679,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -199,18 +188,18 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
-      "cum_qty": 719,
+      "cum_qty": 699,
       "promise_qty": null,
       "promise_approx": false
     },
     {
-      "ship_date": "31/05/2027",
-      "ship_date_iso": "2027-05-31",
-      "dod_date": "15/06/2027",
+      "ship_date": "18/05/2027",
+      "ship_date_iso": "2027-05-18",
+      "dod_date": "02/06/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
-      "cum_qty": 739,
+      "cum_qty": 719,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -221,7 +210,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
-      "cum_qty": 759,
+      "cum_qty": 739,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -232,7 +221,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 40,
-      "cum_qty": 799,
+      "cum_qty": 779,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -243,7 +232,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 20,
-      "cum_qty": 819,
+      "cum_qty": 799,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -253,7 +242,7 @@
       "dod_date": "08/09/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 20,
+      "qty": 40,
       "cum_qty": 839,
       "promise_qty": null,
       "promise_approx": false
@@ -275,8 +264,8 @@
       "dod_date": "08/11/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 40,
-      "cum_qty": 919,
+      "qty": 20,
+      "cum_qty": 899,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -287,7 +276,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 40,
-      "cum_qty": 959,
+      "cum_qty": 939,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -298,7 +287,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 40,
-      "cum_qty": 999,
+      "cum_qty": 979,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -309,7 +298,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 40,
-      "cum_qty": 1039,
+      "cum_qty": 1019,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -320,7 +309,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 40,
-      "cum_qty": 1079,
+      "cum_qty": 1059,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -330,7 +319,7 @@
       "dod_date": "04/04/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 40,
+      "qty": 60,
       "cum_qty": 1119,
       "promise_qty": null,
       "promise_approx": false
@@ -352,8 +341,8 @@
       "dod_date": "07/06/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 40,
-      "cum_qty": 1199,
+      "qty": 20,
+      "cum_qty": 1179,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -364,7 +353,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 40,
-      "cum_qty": 1239,
+      "cum_qty": 1219,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -374,7 +363,7 @@
       "dod_date": "08/08/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 20,
+      "qty": 40,
       "cum_qty": 1259,
       "promise_qty": null,
       "promise_approx": false
@@ -385,8 +374,8 @@
       "dod_date": "07/09/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 40,
-      "cum_qty": 1299,
+      "qty": 20,
+      "cum_qty": 1279,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -397,7 +386,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 40,
-      "cum_qty": 1339,
+      "cum_qty": 1319,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -407,8 +396,8 @@
       "dod_date": "08/11/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 10,
-      "cum_qty": 1349,
+      "qty": 18,
+      "cum_qty": 1337,
       "promise_qty": null,
       "promise_approx": false
     }
