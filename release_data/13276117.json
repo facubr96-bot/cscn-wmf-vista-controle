@@ -1,29 +1,29 @@
 {
   "header": {
     "pn": "13276117",
-    "supplier_code": "WMFBR",
+    "supplier_code": "FHZ16",
     "description": "PARAFUSO M6 X 14",
     "supplier_pn": "",
     "revision": "00",
     "ship_frequency": "",
-    "issue_date": "17/06/2026",
+    "issue_date": "19/08/2026",
     "po_number": "CB36363160",
-    "release_number": "20260617",
-    "last_receipt_date": "16/06/2026",
-    "last_receipt_qty": 0,
+    "release_number": "20260819",
+    "last_receipt_date": "19/06/2026",
+    "last_receipt_qty": 16,
     "cum_receipt": 772,
     "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
     {
-      "ship_date": "13/05/2026",
-      "ship_date_iso": "2026-05-13",
-      "dod_date": "28/05/2026",
-      "bucket_label": "Past Due",
-      "bucket_class": "bucket-pastdue",
-      "qty": 16,
-      "cum_qty": 772,
+      "ship_date": "27/09/2026",
+      "ship_date_iso": "2026-09-27",
+      "dod_date": "12/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 84,
+      "cum_qty": 856,
       "promise_qty": null,
       "promise_approx": false
     }
