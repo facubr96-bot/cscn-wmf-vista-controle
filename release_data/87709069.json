@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "B",
     "ship_frequency": "",
-    "issue_date": "05/08/2026",
+    "issue_date": "19/08/2026",
     "po_number": "CB36363825",
-    "release_number": "20260805",
+    "release_number": "20260819",
     "last_receipt_date": "03/08/2026",
     "last_receipt_qty": 53,
     "cum_receipt": 394,
@@ -17,13 +17,13 @@
   },
   "columns": [
     {
-      "ship_date": "29/09/2026",
-      "ship_date_iso": "2026-09-29",
-      "dod_date": "14/10/2026",
+      "ship_date": "14/10/2026",
+      "ship_date_iso": "2026-10-14",
+      "dod_date": "29/10/2026",
       "bucket_label": "Fab Auth",
       "bucket_class": "bucket-other",
-      "qty": 67,
-      "cum_qty": 461,
+      "qty": 60,
+      "cum_qty": 454,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -34,7 +34,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 60,
-      "cum_qty": 521,
+      "cum_qty": 514,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -45,7 +45,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 60,
-      "cum_qty": 581,
+      "cum_qty": 574,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -56,18 +56,18 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 60,
-      "cum_qty": 641,
+      "cum_qty": 634,
       "promise_qty": null,
       "promise_approx": false
     },
     {
-      "ship_date": "19/10/2027",
-      "ship_date_iso": "2027-10-19",
-      "dod_date": "03/11/2027",
+      "ship_date": "18/11/2027",
+      "ship_date_iso": "2027-11-18",
+      "dod_date": "03/12/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 60,
-      "cum_qty": 701,
+      "cum_qty": 694,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -78,7 +78,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 60,
-      "cum_qty": 761,
+      "cum_qty": 754,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -89,7 +89,7 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 60,
-      "cum_qty": 821,
+      "cum_qty": 814,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -99,8 +99,8 @@
       "dod_date": "03/11/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 28,
-      "cum_qty": 849,
+      "qty": 25,
+      "cum_qty": 839,
       "promise_qty": null,
       "promise_approx": false
     }
