@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "00",
     "ship_frequency": "",
-    "issue_date": "05/08/2026",
+    "issue_date": "19/08/2026",
     "po_number": "CB36363121",
-    "release_number": "20260805",
+    "release_number": "20260819",
     "last_receipt_date": "29/07/2026",
     "last_receipt_qty": 424,
     "cum_receipt": 3524,
@@ -17,13 +17,24 @@
   },
   "columns": [
     {
-      "ship_date": "21/04/2027",
-      "ship_date_iso": "2027-04-21",
-      "dod_date": "06/05/2027",
+      "ship_date": "10/01/2027",
+      "ship_date_iso": "2027-01-10",
+      "dod_date": "25/01/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 500,
       "cum_qty": 4024,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/05/2027",
+      "ship_date_iso": "2027-05-11",
+      "dod_date": "26/05/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 500,
+      "cum_qty": 4524,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -34,25 +45,14 @@
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 500,
-      "cum_qty": 4524,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
-      "ship_date": "23/12/2027",
-      "ship_date_iso": "2027-12-23",
-      "dod_date": "07/01/2028",
-      "bucket_label": "Planning",
-      "bucket_class": "bucket-other",
-      "qty": 500,
       "cum_qty": 5024,
       "promise_qty": null,
       "promise_approx": false
     },
     {
-      "ship_date": "23/04/2028",
-      "ship_date_iso": "2028-04-23",
-      "dod_date": "08/05/2028",
+      "ship_date": "23/01/2028",
+      "ship_date_iso": "2028-01-23",
+      "dod_date": "07/02/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 500,
@@ -61,13 +61,24 @@
       "promise_approx": false
     },
     {
-      "ship_date": "23/08/2028",
-      "ship_date_iso": "2028-08-23",
-      "dod_date": "07/09/2028",
+      "ship_date": "23/05/2028",
+      "ship_date_iso": "2028-05-23",
+      "dod_date": "07/06/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 226,
-      "cum_qty": 5750,
+      "qty": 500,
+      "cum_qty": 6024,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/09/2028",
+      "ship_date_iso": "2028-09-24",
+      "dod_date": "09/10/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 144,
+      "cum_qty": 6168,
       "promise_qty": null,
       "promise_approx": false
     }
