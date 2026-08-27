@@ -1,0 +1,32 @@
+{
+  "header": {
+    "pn": "300381",
+    "supplier_code": "FHZ16",
+    "description": "PARAFUSO DE ACO",
+    "supplier_pn": "",
+    "revision": "C",
+    "ship_frequency": "",
+    "issue_date": "12/08/2026",
+    "po_number": "CB36363071",
+    "release_number": "20260812",
+    "last_receipt_date": "12/02/2026",
+    "last_receipt_qty": 200,
+    "cum_receipt": 800,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "20/12/2026",
+      "ship_date_iso": "2026-12-20",
+      "dod_date": "04/01/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 2,
+      "cum_qty": 802,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
