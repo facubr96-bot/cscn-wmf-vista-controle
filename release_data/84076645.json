@@ -1,7 +1,7 @@
 {
   "header": {
     "pn": "84076645",
-    "supplier_code": "BKM21",
+    "supplier_code": "WMFBR",
     "description": "ALAVANCA DO ELEVADOR DE PALHA",
     "supplier_pn": "",
     "revision": "B",
@@ -12,7 +12,7 @@
     "last_receipt_date": "19/08/2026",
     "last_receipt_qty": 0,
     "cum_receipt": 76,
-    "in_transit": 26,
+    "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
