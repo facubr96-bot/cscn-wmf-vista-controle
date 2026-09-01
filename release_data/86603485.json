@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "C",
     "ship_frequency": "",
-    "issue_date": "19/08/2026",
+    "issue_date": "26/08/2026",
     "po_number": "CB36476774",
-    "release_number": "20260819",
+    "release_number": "20260826",
     "last_receipt_date": "18/09/2025",
     "last_receipt_qty": 1,
     "cum_receipt": 30,
@@ -28,9 +28,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "22/06/2027",
-      "ship_date_iso": "2027-06-22",
-      "dod_date": "07/07/2027",
+      "ship_date": "11/05/2027",
+      "ship_date_iso": "2027-05-11",
+      "dod_date": "26/05/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 30,
@@ -39,9 +39,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "20/03/2028",
-      "ship_date_iso": "2028-03-20",
-      "dod_date": "04/04/2028",
+      "ship_date": "22/09/2027",
+      "ship_date_iso": "2027-09-22",
+      "dod_date": "07/10/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 30,
@@ -50,13 +50,13 @@
       "promise_approx": false
     },
     {
-      "ship_date": "24/09/2028",
-      "ship_date_iso": "2028-09-24",
-      "dod_date": "09/10/2028",
+      "ship_date": "23/05/2028",
+      "ship_date_iso": "2028-05-23",
+      "dod_date": "07/06/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 4,
-      "cum_qty": 124,
+      "qty": 19,
+      "cum_qty": 139,
       "promise_qty": null,
       "promise_approx": false
     }
