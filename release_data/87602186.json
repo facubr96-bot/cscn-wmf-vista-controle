@@ -6,13 +6,13 @@
     "supplier_pn": "MINLOTCHARGE5000",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "19/08/2026",
+    "issue_date": "26/08/2026",
     "po_number": "CB36562526",
-    "release_number": "20260819",
+    "release_number": "20260826",
     "last_receipt_date": "08/05/2026",
     "last_receipt_qty": 97,
     "cum_receipt": 131,
-    "in_transit": 0,
+    "in_transit": 100,
     "pur_pun_qty": "N/D"
   },
   "columns": [
@@ -28,9 +28,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "27/01/2027",
-      "ship_date_iso": "2027-01-27",
-      "dod_date": "11/02/2027",
+      "ship_date": "26/01/2027",
+      "ship_date_iso": "2027-01-26",
+      "dod_date": "10/02/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 100,
@@ -50,9 +50,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "23/02/2028",
-      "ship_date_iso": "2028-02-23",
-      "dod_date": "09/03/2028",
+      "ship_date": "23/01/2028",
+      "ship_date_iso": "2028-01-23",
+      "dod_date": "07/02/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 100,
@@ -66,8 +66,8 @@
       "dod_date": "08/08/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 66,
-      "cum_qty": 597,
+      "qty": 72,
+      "cum_qty": 603,
       "promise_qty": null,
       "promise_approx": false
     }
