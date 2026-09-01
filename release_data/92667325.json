@@ -1,0 +1,54 @@
+{
+  "header": {
+    "pn": "92667325",
+    "supplier_code": "BVJ30",
+    "description": "TUBO",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "26/08/2026",
+    "po_number": "CB36576827",
+    "release_number": "20260826",
+    "last_receipt_date": "17/03/2026",
+    "last_receipt_qty": 20,
+    "cum_receipt": 20,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "30/09/2026",
+      "ship_date_iso": "2026-09-30",
+      "dod_date": "15/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 20,
+      "cum_qty": 40,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "15/10/2026",
+      "ship_date_iso": "2026-10-15",
+      "dod_date": "30/10/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 20,
+      "cum_qty": 60,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "05/01/2027",
+      "ship_date_iso": "2027-01-05",
+      "dod_date": "20/01/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 20,
+      "cum_qty": 80,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
