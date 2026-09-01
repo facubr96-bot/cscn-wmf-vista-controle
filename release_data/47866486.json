@@ -1,14 +1,14 @@
 {
   "header": {
     "pn": "47866486",
-    "supplier_code": "WMFBR",
+    "supplier_code": "BVC42",
     "description": "PLATAFORMA",
     "supplier_pn": "",
     "revision": "",
     "ship_frequency": "",
-    "issue_date": "20/05/2026",
+    "issue_date": "26/08/2026",
     "po_number": "CB36407187",
-    "release_number": "20260520",
+    "release_number": "20260826",
     "last_receipt_date": "15/11/2025",
     "last_receipt_qty": 8,
     "cum_receipt": 57,
@@ -17,13 +17,13 @@
   },
   "columns": [
     {
-      "ship_date": "03/05/2026",
-      "ship_date_iso": "2026-05-03",
-      "dod_date": "18/05/2026",
-      "bucket_label": "Past Due",
-      "bucket_class": "bucket-pastdue",
-      "qty": 4,
-      "cum_qty": 61,
+      "ship_date": "11/10/2026",
+      "ship_date_iso": "2026-10-11",
+      "dod_date": "26/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 11,
+      "cum_qty": 68,
       "promise_qty": null,
       "promise_approx": false
     }
