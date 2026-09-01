@@ -6,59 +6,26 @@
     "supplier_pn": "",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "19/08/2026",
+    "issue_date": "26/08/2026",
     "po_number": "CB36363708",
-    "release_number": "20260819",
-    "last_receipt_date": "14/11/2025",
-    "last_receipt_qty": 60,
-    "cum_receipt": 180,
+    "release_number": "20260826",
+    "last_receipt_date": "25/08/2026",
+    "last_receipt_qty": 8,
+    "cum_receipt": 188,
     "in_transit": 8,
     "pur_pun_qty": "N/D"
   },
   "columns": [
-    {
-      "ship_date": "13/09/2026",
-      "ship_date_iso": "2026-09-13",
-      "dod_date": "28/09/2026",
-      "bucket_label": "Firm",
-      "bucket_class": "bucket-firm",
-      "qty": 1,
-      "cum_qty": 181,
-      "promise_qty": 7,
-      "promise_approx": true
-    },
-    {
-      "ship_date": "16/09/2026",
-      "ship_date_iso": "2026-09-16",
-      "dod_date": "01/10/2026",
-      "bucket_label": "Firm",
-      "bucket_class": "bucket-firm",
-      "qty": 4,
-      "cum_qty": 185,
-      "promise_qty": null,
-      "promise_approx": false
-    },
-    {
-      "ship_date": "21/09/2026",
-      "ship_date_iso": "2026-09-21",
-      "dod_date": "06/10/2026",
-      "bucket_label": "Firm",
-      "bucket_class": "bucket-firm",
-      "qty": 2,
-      "cum_qty": 187,
-      "promise_qty": null,
-      "promise_approx": false
-    },
     {
       "ship_date": "23/09/2026",
       "ship_date_iso": "2026-09-23",
       "dod_date": "08/10/2026",
       "bucket_label": "Firm",
       "bucket_class": "bucket-firm",
-      "qty": 4,
+      "qty": 3,
       "cum_qty": 191,
-      "promise_qty": null,
-      "promise_approx": false
+      "promise_qty": 7,
+      "promise_approx": true
     },
     {
       "ship_date": "29/09/2026",
@@ -79,6 +46,17 @@
       "bucket_class": "bucket-firm",
       "qty": 1,
       "cum_qty": 193,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/10/2026",
+      "ship_date_iso": "2026-10-11",
+      "dod_date": "26/10/2026",
+      "bucket_label": "Firm",
+      "bucket_class": "bucket-firm",
+      "qty": 7,
+      "cum_qty": 200,
       "promise_qty": null,
       "promise_approx": false
     }
