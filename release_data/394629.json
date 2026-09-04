@@ -24,8 +24,8 @@
       "bucket_class": "bucket-other",
       "qty": 151,
       "cum_qty": 1134,
-      "promise_qty": 83,
-      "promise_approx": true
+      "promise_qty": null,
+      "promise_approx": false
     }
   ],
   "promise_note": ""
