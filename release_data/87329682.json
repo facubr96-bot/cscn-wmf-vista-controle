@@ -6,13 +6,13 @@
     "supplier_pn": "FBH1GG3240140G",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "26/08/2026",
+    "issue_date": "02/09/2026",
     "po_number": "CB36545895",
-    "release_number": "20260826",
+    "release_number": "20260902",
     "last_receipt_date": "26/08/2026",
     "last_receipt_qty": 200,
     "cum_receipt": 1680,
-    "in_transit": 400,
+    "in_transit": 200,
     "pur_pun_qty": "N/D"
   },
   "columns": [
