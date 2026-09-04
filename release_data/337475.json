@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "00",
     "ship_frequency": "",
-    "issue_date": "26/08/2026",
+    "issue_date": "02/09/2026",
     "po_number": "CB36695098",
-    "release_number": "20260826",
+    "release_number": "20260902",
     "last_receipt_date": "",
     "last_receipt_qty": "",
     "cum_receipt": 0,
@@ -17,9 +17,9 @@
   },
   "columns": [
     {
-      "ship_date": "02/12/2026",
-      "ship_date_iso": "2026-12-02",
-      "dod_date": "17/12/2026",
+      "ship_date": "15/12/2026",
+      "ship_date_iso": "2026-12-15",
+      "dod_date": "30/12/2026",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 1208,
@@ -66,8 +66,8 @@
       "dod_date": "09/10/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 114,
-      "cum_qty": 4946,
+      "qty": 92,
+      "cum_qty": 4924,
       "promise_qty": null,
       "promise_approx": false
     }
