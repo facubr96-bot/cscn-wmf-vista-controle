@@ -6,13 +6,13 @@
     "supplier_pn": "",
     "revision": "E",
     "ship_frequency": "",
-    "issue_date": "26/08/2026",
+    "issue_date": "02/09/2026",
     "po_number": "CB36667936",
-    "release_number": "20260826",
-    "last_receipt_date": "",
-    "last_receipt_qty": "",
+    "release_number": "20260902",
+    "last_receipt_date": "28/08/2026",
+    "last_receipt_qty": 10,
     "cum_receipt": 10,
-    "in_transit": 10,
+    "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
@@ -22,7 +22,7 @@
       "dod_date": "20/09/2026",
       "bucket_label": "Firm",
       "bucket_class": "bucket-firm",
-      "qty": 20,
+      "qty": 10,
       "cum_qty": 20,
       "promise_qty": 10,
       "promise_approx": true
@@ -39,9 +39,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "10/01/2027",
-      "ship_date_iso": "2027-01-10",
-      "dod_date": "25/01/2027",
+      "ship_date": "11/01/2027",
+      "ship_date_iso": "2027-01-11",
+      "dod_date": "26/01/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 10,
@@ -94,9 +94,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "19/08/2027",
-      "ship_date_iso": "2027-08-19",
-      "dod_date": "03/09/2027",
+      "ship_date": "19/09/2027",
+      "ship_date_iso": "2027-09-19",
+      "dod_date": "04/10/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 10,
@@ -105,9 +105,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "19/10/2027",
-      "ship_date_iso": "2027-10-19",
-      "dod_date": "03/11/2027",
+      "ship_date": "20/12/2027",
+      "ship_date_iso": "2027-12-20",
+      "dod_date": "04/01/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 10,
@@ -154,8 +154,8 @@
       "dod_date": "04/10/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 2,
-      "cum_qty": 132,
+      "qty": 1,
+      "cum_qty": 131,
       "promise_qty": null,
       "promise_approx": false
     }
