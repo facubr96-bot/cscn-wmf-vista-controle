@@ -24,7 +24,7 @@
       "bucket_class": "bucket-pastdue",
       "qty": 9,
       "cum_qty": 1249,
-      "promise_qty": 39,
+      "promise_qty": null,
       "promise_approx": false
     },
     {
