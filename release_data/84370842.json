@@ -6,11 +6,11 @@
     "supplier_pn": "",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "26/08/2026",
+    "issue_date": "02/09/2026",
     "po_number": "CB36364316",
-    "release_number": "20260826",
-    "last_receipt_date": "",
-    "last_receipt_qty": "",
+    "release_number": "20260902",
+    "last_receipt_date": "02/09/2026",
+    "last_receipt_qty": 0,
     "cum_receipt": 0,
     "in_transit": 400,
     "pur_pun_qty": "N/D"
@@ -22,8 +22,8 @@
       "dod_date": "08/09/2026",
       "bucket_label": "Past Due",
       "bucket_class": "bucket-pastdue",
-      "qty": 392,
-      "cum_qty": 392,
+      "qty": 400,
+      "cum_qty": 400,
       "promise_qty": 750,
       "promise_approx": true
     }
