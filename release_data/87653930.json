@@ -24,8 +24,8 @@
       "bucket_class": "bucket-pastdue",
       "qty": 130,
       "cum_qty": 310,
-      "promise_qty": 130,
-      "promise_approx": true
+      "promise_qty": null,
+      "promise_approx": false
     },
     {
       "ship_date": "24/10/2027",
