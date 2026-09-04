@@ -24,8 +24,8 @@
       "bucket_class": "bucket-firm",
       "qty": 1000,
       "cum_qty": 1484,
-      "promise_qty": 90,
-      "promise_approx": true
+      "promise_qty": null,
+      "promise_approx": false
     }
   ],
   "promise_note": ""
