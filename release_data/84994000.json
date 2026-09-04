@@ -35,8 +35,8 @@
       "bucket_class": "bucket-other",
       "qty": 30,
       "cum_qty": 382,
-      "promise_qty": 60,
-      "promise_approx": true
+      "promise_qty": null,
+      "promise_approx": false
     },
     {
       "ship_date": "31/05/2027",
