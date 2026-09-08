@@ -24,8 +24,8 @@
       "bucket_class": "bucket-firm",
       "qty": 220,
       "cum_qty": 220,
-      "promise_qty": null,
-      "promise_approx": false
+      "promise_qty": 220,
+      "promise_approx": true
     },
     {
       "ship_date": "20/03/2028",
@@ -39,5 +39,5 @@
       "promise_approx": false
     }
   ],
-  "promise_note": "Promessa cadastrada sem data: Qty 220"
+  "promise_note": ""
 }
