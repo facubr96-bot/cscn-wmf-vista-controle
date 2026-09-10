@@ -11,8 +11,8 @@
     "release_number": "20260902",
     "last_receipt_date": "29/07/2026",
     "last_receipt_qty": 20,
-    "cum_receipt": 422,
-    "in_transit": 40,
+    "cum_receipt": 462,
+    "in_transit": 0,
     "pur_pun_qty": "N/D"
   },
   "columns": [
