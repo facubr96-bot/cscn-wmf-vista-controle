@@ -24,8 +24,8 @@
       "bucket_class": "bucket-firm",
       "qty": 72,
       "cum_qty": 1400,
-      "promise_qty": null,
-      "promise_approx": false
+      "promise_qty": 35,
+      "promise_approx": true
     },
     {
       "ship_date": "18/10/2026",
