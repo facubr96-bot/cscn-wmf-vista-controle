@@ -1,0 +1,43 @@
+{
+  "header": {
+    "pn": "90439835",
+    "supplier_code": "FMV69",
+    "description": "CONJUNTO DE CONEXAO",
+    "supplier_pn": "",
+    "revision": "B",
+    "ship_frequency": "",
+    "issue_date": "09/09/2026",
+    "po_number": "CB36744532",
+    "release_number": "20260909",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "09/11/2026",
+      "ship_date_iso": "2026-11-09",
+      "dod_date": "24/11/2026",
+      "bucket_label": "Fab Auth",
+      "bucket_class": "bucket-other",
+      "qty": 50,
+      "cum_qty": 50,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "10/01/2027",
+      "ship_date_iso": "2027-01-10",
+      "dod_date": "25/01/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 26,
+      "cum_qty": 76,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
