@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "PB",
     "ship_frequency": "",
-    "issue_date": "02/09/2026",
+    "issue_date": "09/09/2026",
     "po_number": "CB36363179",
-    "release_number": "20260902",
+    "release_number": "20260909",
     "last_receipt_date": "30/06/2026",
     "last_receipt_qty": 1100,
     "cum_receipt": 2600,
@@ -28,9 +28,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "20/09/2026",
-      "ship_date_iso": "2026-09-20",
-      "dod_date": "05/10/2026",
+      "ship_date": "22/09/2026",
+      "ship_date_iso": "2026-09-22",
+      "dod_date": "07/10/2026",
       "bucket_label": "Firm",
       "bucket_class": "bucket-firm",
       "qty": 1000,
@@ -39,10 +39,10 @@
       "promise_approx": false
     },
     {
-      "ship_date": "12/11/2026",
-      "ship_date_iso": "2026-11-12",
-      "dod_date": "27/11/2026",
-      "bucket_label": "Fab Auth",
+      "ship_date": "29/12/2026",
+      "ship_date_iso": "2026-12-29",
+      "dod_date": "13/01/2027",
+      "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 1000,
       "cum_qty": 4700,
@@ -50,9 +50,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "14/04/2027",
-      "ship_date_iso": "2027-04-14",
-      "dod_date": "29/04/2027",
+      "ship_date": "27/04/2027",
+      "ship_date_iso": "2027-04-27",
+      "dod_date": "12/05/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 1000,
@@ -61,9 +61,9 @@
       "promise_approx": false
     },
     {
-      "ship_date": "24/08/2027",
-      "ship_date_iso": "2027-08-24",
-      "dod_date": "08/09/2027",
+      "ship_date": "22/09/2027",
+      "ship_date_iso": "2027-09-22",
+      "dod_date": "07/10/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
       "qty": 1000,
@@ -99,8 +99,8 @@
       "dod_date": "08/11/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 161,
-      "cum_qty": 8861,
+      "qty": 97,
+      "cum_qty": 8797,
       "promise_qty": null,
       "promise_approx": false
     }
