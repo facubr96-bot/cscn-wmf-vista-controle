@@ -6,13 +6,13 @@
     "supplier_pn": "",
     "revision": "B",
     "ship_frequency": "",
-    "issue_date": "02/09/2026",
+    "issue_date": "09/09/2026",
     "po_number": "CB36699924",
-    "release_number": "20260902",
+    "release_number": "20260909",
     "last_receipt_date": "25/08/2026",
     "last_receipt_qty": 97,
     "cum_receipt": 97,
-    "in_transit": 0,
+    "in_transit": 53,
     "pur_pun_qty": "N/D"
   },
   "columns": [
