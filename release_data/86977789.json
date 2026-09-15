@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "B",
     "ship_frequency": "",
-    "issue_date": "02/09/2026",
+    "issue_date": "09/09/2026",
     "po_number": "CB36363236",
-    "release_number": "20260902",
+    "release_number": "20260909",
     "last_receipt_date": "31/07/2026",
     "last_receipt_qty": 342,
     "cum_receipt": 742,
@@ -44,8 +44,8 @@
       "dod_date": "07/09/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 200,
-      "cum_qty": 1742,
+      "qty": 202,
+      "cum_qty": 1744,
       "promise_qty": null,
       "promise_approx": false
     }
