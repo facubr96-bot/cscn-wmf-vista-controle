@@ -1,0 +1,87 @@
+{
+  "header": {
+    "pn": "84591673",
+    "supplier_code": "BJG74",
+    "description": "SUPORTE DO TANQUE",
+    "supplier_pn": "",
+    "revision": "E",
+    "ship_frequency": "",
+    "issue_date": "09/09/2026",
+    "po_number": "CB36743943",
+    "release_number": "20260909",
+    "last_receipt_date": "",
+    "last_receipt_qty": "",
+    "cum_receipt": 0,
+    "in_transit": 0,
+    "pur_pun_qty": "N/D"
+  },
+  "columns": [
+    {
+      "ship_date": "10/01/2027",
+      "ship_date_iso": "2027-01-10",
+      "dod_date": "25/01/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 72,
+      "cum_qty": 72,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "13/05/2027",
+      "ship_date_iso": "2027-05-13",
+      "dod_date": "28/05/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 72,
+      "cum_qty": 144,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "11/11/2027",
+      "ship_date_iso": "2027-11-11",
+      "dod_date": "26/11/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 72,
+      "cum_qty": 216,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "13/02/2028",
+      "ship_date_iso": "2028-02-13",
+      "dod_date": "28/02/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 72,
+      "cum_qty": 288,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "12/06/2028",
+      "ship_date_iso": "2028-06-12",
+      "dod_date": "27/06/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 72,
+      "cum_qty": 360,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "12/10/2028",
+      "ship_date_iso": "2028-10-12",
+      "dod_date": "27/10/2028",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 6,
+      "cum_qty": 366,
+      "promise_qty": null,
+      "promise_approx": false
+    }
+  ],
+  "promise_note": ""
+}
