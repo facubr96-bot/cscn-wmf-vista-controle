@@ -6,9 +6,9 @@
     "supplier_pn": "",
     "revision": "A",
     "ship_frequency": "",
-    "issue_date": "02/09/2026",
+    "issue_date": "09/09/2026",
     "po_number": "CB36364283",
-    "release_number": "20260902",
+    "release_number": "20260909",
     "last_receipt_date": "08/04/2026",
     "last_receipt_qty": 100,
     "cum_receipt": 850,
@@ -44,7 +44,18 @@
       "dod_date": "07/10/2027",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 100,
+      "qty": 50,
+      "cum_qty": 1000,
+      "promise_qty": null,
+      "promise_approx": false
+    },
+    {
+      "ship_date": "24/10/2027",
+      "ship_date_iso": "2027-10-24",
+      "dod_date": "08/11/2027",
+      "bucket_label": "Planning",
+      "bucket_class": "bucket-other",
+      "qty": 50,
       "cum_qty": 1050,
       "promise_qty": null,
       "promise_approx": false
@@ -88,8 +99,8 @@
       "dod_date": "09/03/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 100,
-      "cum_qty": 1300,
+      "qty": 50,
+      "cum_qty": 1250,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -99,7 +110,7 @@
       "dod_date": "04/04/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 50,
+      "qty": 100,
       "cum_qty": 1350,
       "promise_qty": null,
       "promise_approx": false
@@ -121,8 +132,8 @@
       "dod_date": "07/06/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 100,
-      "cum_qty": 1500,
+      "qty": 50,
+      "cum_qty": 1450,
       "promise_qty": null,
       "promise_approx": false
     },
@@ -132,7 +143,7 @@
       "dod_date": "07/07/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 50,
+      "qty": 100,
       "cum_qty": 1550,
       "promise_qty": null,
       "promise_approx": false
@@ -176,8 +187,8 @@
       "dod_date": "08/11/2028",
       "bucket_label": "Planning",
       "bucket_class": "bucket-other",
-      "qty": 42,
-      "cum_qty": 1742,
+      "qty": 25,
+      "cum_qty": 1725,
       "promise_qty": null,
       "promise_approx": false
     }
